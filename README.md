@@ -1,9 +1,6 @@
-### Hi there 👋
+### Code wins arguments 👋
 
-
-[![ultra-supara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultra-supara)](https://github.com/ultra-supara/github-readme-stats)
-
-![ultra-supara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultra-supara&show_icons=true&theme=highcontrast)
+![ultra-supara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultra-supara&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ultra-supara&layout=compact)](https://github.com/ultra-supara/github-readme-stats)
 
