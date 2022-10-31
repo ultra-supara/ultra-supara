@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 <!--
-**ultra-supara/ultra-supara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![ultra-supara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultra-supara)](https://github.com/ultra-supara/github-readme-stats)
+
+![ultra-supara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultra-supara&show_icons=true&theme=highcontrast)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ultra-supara&layout=compact)](https://github.com/ultra-supara/github-readme-stats)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
