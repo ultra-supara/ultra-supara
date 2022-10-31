@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 
 [![ultra-supara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultra-supara)](https://github.com/ultra-supara/github-readme-stats)
 
@@ -17,4 +16,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
