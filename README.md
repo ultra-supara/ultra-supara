@@ -8,8 +8,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ultra-supara&theme=dracula&margin-w=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on a company providing web application services from the University of Tokyo
-- 🌱 I’m currently learning **"Security"** / **"Application Platform"**💬
+- 🔭 I’m currently working on a company providing web application backend services from the University of Tokyo
+- 🌱 I’m currently learning **"Security"** / **"Application Platform (CD & CI pipeline/AWS(Terraform))"** 💬
 
 <div align="left">
   <h3>Languages and Tools:</h3>
