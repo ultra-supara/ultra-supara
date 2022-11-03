@@ -77,6 +77,12 @@
     <a href="https://kubernetes.io" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
     </a> 
+    <a href="https://www.yara.com" target="_blank"> 
+      <img src="https://www.vectorlogo.zone/logos/yara/yara-icon.svg" alt="yara" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.openpolicyagent.org" target="_blank"> 
+      <img src="https://www.vectorlogo.zone/logos/openpolicyagent/openpolicyagent-icon.svg" alt="openpolicyagent" width="40" height="40"/> 
+    </a> 
   </div>
   <div>
     <h5>Backend as a Service(BaaS)</h5>
