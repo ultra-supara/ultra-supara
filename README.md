@@ -24,6 +24,9 @@
     <a href="https://go.dev" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
     </a>
+    <a href="https://www.verilog.com" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/verilog/verilog-original.svg" alt="verilog" width="40" height="40"/> 
+    </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     </a> 
@@ -78,7 +81,7 @@
       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
     </a> 
     <a href="https://www.yara.com" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/yara/yara-icon.svg" alt="yara" width="40" height="40"/> 
+      <img src="https://logos-download.com/wp-content/uploads/2016/11/Yara_logo_logotype.png" alt="yara" width="40" height="40"/> 
     </a> 
     <a href="https://www.openpolicyagent.org" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/openpolicyagent/openpolicyagent-icon.svg" alt="openpolicyagent" width="40" height="40"/> 
