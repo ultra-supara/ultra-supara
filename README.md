@@ -86,6 +86,9 @@
     <a href="https://www.openpolicyagent.org" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/openpolicyagent/openpolicyagent-icon.svg" alt="openpolicyagent" width="40" height="40"/> 
     </a> 
+    <a href="https://gvisor.dev" target="_blank"> 
+      <img src="https://en.wikipedia.org/wiki/GVisor#/media/File:Gvisor-logo.png" alt="gVisor" width="40" height="40"/> 
+    </a> 
   </div>
   <div>
     <h5>Backend as a Service(BaaS)</h5>
