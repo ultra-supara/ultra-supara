@@ -87,7 +87,7 @@
       <img src="https://www.vectorlogo.zone/logos/openpolicyagent/openpolicyagent-icon.svg" alt="openpolicyagent" width="40" height="40"/> 
     </a> 
     <a href="https://gvisor.dev" target="_blank"> 
-      <img src="https://en.wikipedia.org/wiki/GVisor#/media/File:Gvisor-logo.png" alt="gVisor" width="40" height="40"/> 
+      <img src="https://www.gstatic.com/devopsconsole/images/oss/icons/gvisor_logo.svg" alt="gVisor" width="40" height="40"/> 
     </a> 
   </div>
   <div>
