@@ -8,8 +8,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ultra-supara&theme=dracula&margin-w=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on a company providing web application backend services from the University of Tokyo
-- 🌱 I’m currently learning **"Security"** / **"Application Platform (CD & CI pipeline/AWS(Terraform))"** 💬
+- 🔭 I’m currently working on a company providing web application backend services
+- 🌱 I’m currently learning **"Security ,Network"** / **"Application Platform"** / **"AWS(Terraform)"** 💬
 
 <div align="left">
   <h3>Languages and Tools:</h3>
@@ -21,9 +21,6 @@
     <a href="https://www.w3schools.com/cpp/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
     </a> 
-    <a href="https://go.dev" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
-    </a>
     <a href="https://www.verilog.com" target="_blank"> 
       <img src="https://user-images.githubusercontent.com/16542113/50175134-4f7b3700-02fc-11e9-914e-cb317fddce4e.png" alt="verilog" width="40" height="40"/> 
     </a> 
@@ -50,9 +47,9 @@
   
   <div>
     <h5>Backend Development</h5>
-    <a href="https://www.nginx.com" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-    </a> 
+    <a href="https://go.dev" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+    </a>
   </div>
   <div>
     <h5>Frameworks</h5>
