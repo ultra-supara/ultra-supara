@@ -1,12 +1,12 @@
 ### Code wins arguments 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ultra-supara&layout=compact&theme=cobalt2)](https://github.com/ultra-supara/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ultra-supara&layout=pie)](https://github.com/ultra-supara/github-readme-stats)
 
 <h3>🏆 Github Profile Trophy</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ultra-supara&theme=dracula&margin-w=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on a company providing web application backend services , platform team
+- 🔭 I’m currently working on a company providing web services , as a server side engineer , security developer 
 - 🌱 I’m currently learning **"Web & Cloud , CI/CD ... Security"** / **"Application Platform(container, k8s)"** / **Golang, Python3 functional language ** 💬
 
 <div align="left">
