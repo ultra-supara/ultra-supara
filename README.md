@@ -1,7 +1,8 @@
 ### Code wins arguments 👋
 
-- 🔭 I’m currently working on a company providing web services , as a server side engineer , security developer 
-- 🌱 I’m currently learning **"Web & Cloud , CI/CD ... Security"** / **"Application Platform(docker)"** / **Go, Python3 functional language ** 💬
+- 🔭 I’m currently working on a company providing web services , as a server side software developer , security engineering
+- 🌱 I’m currently learning **"Web & Cloud , CI/CD ... Security"** / **docker** / **Go, Python,  functional language ** 
+- 💬 Regarding past achievements  , seccamp2021(analysis) , seccamp2023(web tutor) , SecHack365(philosophy driven course, 2023) 
 
 <div align="left">
   <h3>Languages and Tools:</h3>
