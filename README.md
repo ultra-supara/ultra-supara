@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a company providing web services , as a server side software developer , security engineering
 - 🌱 I’m currently learning **"Web & Cloud , CI/CD ... Security"** / **docker** / **Go, Python,  functional language ** 
-- 💬 Regarding past achievements  , seccamp2021(analysis) , seccamp2023(web tutor) , SecHack365(philosophy driven course, 2023) 
+- 💬 Regarding past achievements  , seccamp2021(analysis) , seccamp2023(web) , SecHack365(philosophy driven, 2023) 
 
 <div align="left">
   <h3>Languages and Tools:</h3>
