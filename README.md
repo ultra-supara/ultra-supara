@@ -11,9 +11,6 @@
     <a href="https://www.cprogramming.com/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-    </a> 
     <a href="https://www.verilog.com" target="_blank"> 
       <img src="https://user-images.githubusercontent.com/16542113/50175134-4f7b3700-02fc-11e9-914e-cb317fddce4e.png" alt="verilog" width="40" height="40"/> 
     </a> 
@@ -23,23 +20,19 @@
   </div>
   
   <div>
-    <h5>Frontend Development</h5>
-    <a href="https://www.w3.org/html/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a> 
-  </div>
-  
-  <div>
-    <h5>Backend Development</h5>
+    <h5>ServerSide Development</h5>
     <a href="https://go.dev" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
     </a>
   </div>
   <div>
     <h5>Frameworks</h5>
+  </div>
+  <div>
+    <h5>server</h5>
+    <a href="https://www.mysql.com/](https://echo.labstack.com/" target="_blank"> 
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAxwCM8b9ppkZWZMRP4Cyppm0sZd0dWU1bkIffkIwrs_cYuotZGd5OH8OLpP6UyqzrpcQ&usqp=CAU" alt="echo" width="40" height="40"/> 
+    </a> 
   </div>
   <div>
     <h5>Databases</h5>
@@ -58,9 +51,6 @@
     <a href="https://www.vagrantup.com/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> 
     </a>
-    <a href="https://kubernetes.io" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-    </a> 
     <a href="https://www.yara.com" target="_blank"> 
       <img src="https://logos-download.com/wp-content/uploads/2016/11/Yara_logo_logotype.png" alt="yara" width="40" height="40"/> 
     </a> 
@@ -69,12 +59,6 @@
     </a> 
     <a href="https://gvisor.dev" target="_blank"> 
       <img src="https://www.gstatic.com/devopsconsole/images/oss/icons/gvisor_logo.svg" alt="gVisor" width="40" height="40"/> 
-    </a> 
-  </div>
-  <div>
-    <h5>Backend as a Service(BaaS)</h5>
-    <a href="https://firebase.google.com/" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
     </a> 
   </div>
 </div>
