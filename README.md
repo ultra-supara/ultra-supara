@@ -1,8 +1,8 @@
 ### Code wins arguments 👋
 
 - 🔭 I’m currently working on a fintech company as a software developer , security engineering
-- 🌱 I’m currently learning **"Web & Cloud , CI/CD ... Security"** / **docker, infra development** / **Go, Python** 
-- 💬 Regarding past achievements  , seccamp2021(analysis) , seccamp2023(web) , SecHack365(philosophy driven, 2023) 
+- 🌱 I’m currently learning **"Web & Cloud , CI/CD ... Security"** / **Go, Python** 
+- 💬 Regarding past achievements  , seccamp2021(analysis) , seccamp2023(web) , SecHack365(philosophy driven)2023
 
 <div align="left">
   <h3>Languages and Tools:</h3>
