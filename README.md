@@ -30,7 +30,7 @@
     </a> 
     <h5>infra</h5>
     <a href="https://aws.amazon.com/jp/" target="_blank"> 
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Famazonwebservices%2F&psig=AOvVaw2NC7dLUQab78B4r3-GU7P-&ust=1697871652117000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDYx_eGhIIDFQAAAAAdAAAAABAE" alt="aws" width="40" height="40"/> 
+      <img src="https://github.com/ultra-supara/ultra-supara/assets/67861004/2bc13696-620c-4967-8d12-641fd7823f69" alt="aws" width="40" height="40"/> 
     </a> 
   </div>
   
