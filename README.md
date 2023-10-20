@@ -11,9 +11,6 @@
     <a href="https://www.cprogramming.com/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     </a> 
-    <a href="https://www.verilog.com" target="_blank"> 
-      <img src="https://user-images.githubusercontent.com/16542113/50175134-4f7b3700-02fc-11e9-914e-cb317fddce4e.png" alt="verilog" width="40" height="40"/> 
-    </a> 
     <a href="https://www.python.org" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a>
@@ -25,21 +22,25 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
     </a>
   </div>
-  <div>
-    <h5>Frameworks</h5>
-  </div>
+  
   <div>
     <h5>server</h5>
-    <a href="https://www.mysql.com/](https://echo.labstack.com/" target="_blank"> 
+    <a href="https://echo.labstack.com/" target="_blank"> 
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAxwCM8b9ppkZWZMRP4Cyppm0sZd0dWU1bkIffkIwrs_cYuotZGd5OH8OLpP6UyqzrpcQ&usqp=CAU" alt="echo" width="40" height="40"/> 
     </a> 
+    <h5>infra</h5>
+    <a href="https://aws.amazon.com/jp/" target="_blank"> 
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Famazonwebservices%2F&psig=AOvVaw2NC7dLUQab78B4r3-GU7P-&ust=1697871652117000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDYx_eGhIIDFQAAAAAdAAAAABAE" alt="aws" width="40" height="40"/> 
+    </a> 
   </div>
+  
   <div>
     <h5>Databases</h5>
     <a href="https://www.mysql.com/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     </a> 
   </div>
+  
   <div>
     <h5>Development Tools</h5>
     <a href="https://www.linux.org/" target="_blank"> 
