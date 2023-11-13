@@ -7,9 +7,9 @@
 
 logo
 
-![scamp_logo_白_背景青](https://github.com/ultra-supara/ultra-supara/assets/67861004/079b2d93-9a0e-4fa7-a509-cef0e01ea234)
+<img src="https://github.com/ultra-supara/ultra-supara/assets/67861004/079b2d93-9a0e-4fa7-a509-cef0e01ea234" alt="seccamp" width="50" height="50"/> 
 
-![sechack365](https://github.com/ultra-supara/ultra-supara/assets/67861004/ebf61208-8596-4c05-9dff-a0e141421135)
+<img src="https://github.com/ultra-supara/ultra-supara/assets/67861004/ebf61208-8596-4c05-9dff-a0e141421135" alt="sechack365" width="50" height="50"/> 
 
 <div align="left">
   <h3>Languages and Tools:</h3>
