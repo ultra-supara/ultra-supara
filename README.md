@@ -1,7 +1,7 @@
 ### Code wins arguments 👋
 
 - 🔭 I’m currently working on a fintech company as a engineer
-- 🌱 I’m currently learning **"language processing system ,ML, Web & Cloud ,CI/CD ,Security"**
+- 🌱 I’m currently learning **"language processing system ,Web & Cloud ,CI/CD ,Security"**
 - ⭐️ I'm currently making support tools for github actions , sisakulint (ultra-supara/sisakulint)
 - 💬 Regarding past achievements  , seccamp2021(analysis) , seccamp2023(web) , SecHack365(philosophy driven)2023
 
