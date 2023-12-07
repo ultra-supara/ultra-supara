@@ -1,8 +1,8 @@
 ### Code wins arguments 👋
 
-- 🔭 I’m currently working on a fintech company as a engineer
-- 🌱 I’m currently learning **"language processing system ,Web & Cloud ,CI/CD ,Security"**
-- ⭐️ I'm currently making support tools for github actions , sisakulint (ultra-supara/sisakulint)
+- 🔭 I’m currently working as CSIRT/PSIRT, platform team @ [finatext](https://finatext.com/)
+- 🌱 I’m currently learning **"language processing system ,Web & Cloud ,CI/CD "**
+- ⭐️ I'm currently making support tools for github actions, [sisakulint](https://github.com/ultra-supara/sisakulint) , [official](https://github.com/sisakulint)
 - 💬 Regarding past achievements  , seccamp2021(analysis) , seccamp2023(web) , SecHack365(philosophy driven)2023
 
 logo
@@ -24,7 +24,7 @@ logo
   </div>
   
   <div>
-    <h5>ServerSide Development</h5>
+    <h5>Development</h5>
     <a href="https://go.dev" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
     </a>
