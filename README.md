@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working as CSIRT/PSIRT, platform team @ [finatext](https://finatext.com/)
 - 🌱 I’m currently interested in **"言語処理系 ,AWS ,CI/CD"**
-- 🌱 I was researched **"High Performance Computing"** for DNN by architecture level analysis when I was B4 student at [ihpc](http://www.ihpc.se.ritsumei.ac.jp/)
-- ⭐️ I'm currently making support tools for github actions, [sisakulint](https://github.com/ultra-supara/sisakulint) , [official](https://github.com/sisakulint)
+- 🌱 I was researched **"High Performance Computing"** when I was B4 student at [ihpc](http://www.ihpc.se.ritsumei.ac.jp/)
+- ⭐️ I'm currently making support tools for github actions,detail: [sisakulint](https://github.com/ultra-supara/homebrew-sisakulint)
 - 💬 Regarding past achievements
 
 logo
