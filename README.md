@@ -36,20 +36,9 @@ security engineer / software engineer
   </div>
   
   <div>
-    <h5>server</h5>
-    <a href="https://echo.labstack.com/" target="_blank"> 
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAxwCM8b9ppkZWZMRP4Cyppm0sZd0dWU1bkIffkIwrs_cYuotZGd5OH8OLpP6UyqzrpcQ&usqp=CAU" alt="echo" width="40" height="40"/> 
-    </a> 
     <h5>infra</h5>
     <a href="https://aws.amazon.com/jp/" target="_blank"> 
       <img src="https://github.com/ultra-supara/ultra-supara/assets/67861004/2bc13696-620c-4967-8d12-641fd7823f69" alt="aws" width="40" height="40"/> 
-    </a> 
-  </div>
-  
-  <div>
-    <h5>Databases</h5>
-    <a href="https://www.mysql.com/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     </a> 
   </div>
   
