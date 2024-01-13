@@ -1,6 +1,6 @@
 ### Code wins arguments 👋
 
-- 🔭 I’m currently working as CSIRT/PSIRT, platform team @ [finatext](https://finatext.com/)
+- 🔭 I’m currently working as internship student @ [finatext](https://finatext.com/)
 - 🌱 I’m currently interested in **"言語処理系 ,AWS ,CI/CD"**
 - 🌱 I was researched **"High Performance Computing"** when I was B4 student at [ihpc](http://www.ihpc.se.ritsumei.ac.jp/)
 - ⭐️ I'm currently making support tools for github actions,detail: [sisakulint](https://github.com/ultra-supara/homebrew-sisakulint)
@@ -11,6 +11,11 @@ logo
 <img src="https://github.com/ultra-supara/ultra-supara/assets/67861004/079b2d93-9a0e-4fa7-a509-cef0e01ea234" alt="seccamp" width="50" height="50"/> 
 
 <img src="https://github.com/ultra-supara/ultra-supara/assets/67861004/ebf61208-8596-4c05-9dff-a0e141421135" alt="sechack365" width="50" height="50"/> 
+
+### Profile
+security engineer / software engineer
+高度なセキュリティーの攻防技術や事業会社でのPSIRT/CSIRT、セキュリティーを中心に監査やコンサルティング領域に興味関心があります。
+また、Infrastructure as Codeによるパブリッククラウドやコンテナ技術などのWebアプリケーションのplatform領域に興味関心があります。
 
 <div align="left">
   <h3>Languages and Tools:</h3>
