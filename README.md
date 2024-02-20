@@ -11,10 +11,8 @@
 <img src="https://github.com/ultra-supara/ultra-supara/assets/67861004/ebf61208-8596-4c05-9dff-a0e141421135" alt="sechack365" width="50" height="50"/> 
 
 ### Profile
-security engineer / software engineer
-
-高度なセキュリティーの攻防技術に関心があり事業会社でのPSIRT/CSIRT、セキュリティーを中心に監査やコンサルティング領域にやっていきの気持ちがあります。
-また、Infrastructure as CodeによるAWSやコンテナ技術、CI/CDなどのWebアプリケーションのplatform領域に興味関心があります。
+高度なセキュリティーの攻防技術に関心があり事業会社でのPSIRT/CSIRT、特に認証・認可やPCIDSSなど
+また、Infrastructure as CodeによるAWSやコンテナ技術、CI/CDなどのDSLで構築するWebアプリケーションのplatform領域に興味関心があります。
 
 <div align="left">
   <h3>Languages and Tools:</h3>
