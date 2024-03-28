@@ -1,7 +1,6 @@
 ### Code wins arguments 👋
 
-- 🔭 I’m currently working as internship student @ [finatext](https://finatext.com/)
-- 🌱 I was researched **"High Performance Computing"** when I was B4 student at [ihpc](http://www.ihpc.se.ritsumei.ac.jp/)
+- 🔭 I’m currently working as SWE @ [finatext](https://finatext.com/) , (platform unit 24新卒)
 - ⭐️ I'm currently making support tools for github actions,detail: [sisakulint](https://github.com/ultra-supara/homebrew-sisakulint)
 
 - 💬 Regarding past achievements logo
@@ -12,7 +11,8 @@
 
 ### Profile
 高度なセキュリティーの攻防技術に関心があり事業会社でのPSIRT/CSIRT、特に認証・認可やPCIDSSなど
-また、Infrastructure as CodeによるAWSやコンテナ技術、CI/CDなどのDSLで構築するWebアプリケーションのplatform領域に興味関心があります。
+また、Infrastructure as CodeによるAWSインフラ、コンテナ技術、CI/CDなどのDSLで構築するWebアプリケーションのplatform領域に興味関心があります。
+DSLを中心とした言語処理系の技術そのものにも興味があります。
 
 <div align="left">
   <h3>Languages and Tools:</h3>
