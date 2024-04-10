@@ -10,11 +10,7 @@
 <img src="https://github.com/ultra-supara/ultra-supara/assets/67861004/ebf61208-8596-4c05-9dff-a0e141421135" alt="sechack365" width="50" height="50"/> 
 
 ### Profile
-高度なセキュリティーの攻防技術に関心があり学生時代はサークル活動や国費で勉強させていただいてたりしていました。
-offsec, 認証・認可, PCIDSS...など、たまに脆弱性を報告したりもしています。
-また、Infrastructure as CodeによるAWSインフラ、コンテナ技術、CI/CDなどのDSLで構築するWebアプリケーションのplatform領域に興味があります。
-DSLを中心とした言語処理系の技術そのものにも興味があります。
-コーポレートITの分野にプロダクトサイドで使われているCIとかの技術を持ち込んで良くなったらいいなあとか考えてたりします。
+認証・認可, offsec, aws, GitHub Actions, ASM, 脅威インテリジェンス, PCIDSS, ISMS, QSA, 監査, CSIRT構築
 
 <div align="left">
   <h3>Languages and Tools:</h3>
