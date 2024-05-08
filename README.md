@@ -1,7 +1,8 @@
 ### Code wins arguments 👋
 
-- 🔭 I’m currently working as SWE @ [finatext](https://finatext.com/) , (platform unit 24新卒)
-- ⭐️ I'm currently making support tools for github actions,detail: [sisakulint](https://github.com/ultra-supara/homebrew-sisakulint)
+- 🔭 I’m currently working as a Platform Team Engineer @ [finatext](https://finatext.com/) ('24新卒)
+- 🐤 ultra-supara (asu_para/あすぱら)
+- ⭐️ I'm currently making linting checker for github actions,detail: [sisakulint](https://github.com/ultra-supara/homebrew-sisakulint) , give me star⭐
 
 - 💬 Regarding past achievements logo
 
