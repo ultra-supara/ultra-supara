@@ -1,7 +1,8 @@
 ### Code wins arguments 👋
 
 - 🔭 I’m currently working as a Platform Team Engineer @ [finatext](https://finatext.com/) ('24新卒)
-- 🐤 ultra-supara (asu_para/あすぱら)
+-   AWS ,web application platform, Offensive Security, 
+- 🐤 githubID :ultra-supara(X :@4su_para) / Hacker Name : asu_para / あすぱら
 - ⭐️ I'm currently making linting checker for github actions,detail: [sisakulint](https://github.com/ultra-supara/homebrew-sisakulint) , give me star⭐
 
 - 💬 Regarding past achievements logo
@@ -11,7 +12,6 @@
 <img src="https://github.com/ultra-supara/ultra-supara/assets/67861004/ebf61208-8596-4c05-9dff-a0e141421135" alt="sechack365" width="50" height="50"/> 
 
 ### Profile
-認証・認可, offsec, aws, GitHub Actions, ASM, 脅威インテリジェンス, PCIDSS, ISMS, QSA, 監査, CSIRT構築
 
 <div align="left">
   <h3>Languages and Tools:</h3>
