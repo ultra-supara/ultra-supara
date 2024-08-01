@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a Platform Team Engineer @ [finatext](https://finatext.com/) (since 2024-)
 -   AWS ,web application platform, Offensive Security, Cloud Security
 - 🐤 githubID :ultra-supara(X :@4su_para)
-- ⭐️ I'm currently making linting checker for github actions,detail: [sisakulint](https://github.com/ultra-supara/homebrew-sisakulint) , give me star⭐
+- ⭐️ I'm currently making linting checker for github actions,detail: [sisakulint](https://github.com/ultra-supara/sisakulint) , give me star⭐
 
 - 💬 Regarding past achievements logo
 
