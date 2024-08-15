@@ -1,6 +1,6 @@
 ### Code wins arguments 👋
 
-- 🔭 I’m currently working as a Platform Team Engineer @ [finatext](https://finatext.com/) (since 2024-)
+- 🔭 I’m currently working at Platform Team as a Security Engineer @ [finatext](https://finatext.com/) (since 2024-)
 -   AWS ,web application platform, Offensive Security, Cloud Security
 - 🐤 githubID :ultra-supara(X :@4su_para)
 - ⭐️ I'm currently making linting checker for github actions,detail: [sisakulint](https://github.com/ultra-supara/sisakulint) , give me star⭐
@@ -8,8 +8,10 @@
 - 💬 Regarding past achievements logo
 
 <img src="https://github.com/ultra-supara/ultra-supara/assets/67861004/079b2d93-9a0e-4fa7-a509-cef0e01ea234" alt="seccamp" width="50" height="50"/> 
+2021:trainee, 2023:web security class tutor
 
 <img src="https://github.com/ultra-supara/ultra-supara/assets/67861004/ebf61208-8596-4c05-9dff-a0e141421135" alt="sechack365" width="50" height="50"/> 
+2023:trainee
 
 ### Profile
 
