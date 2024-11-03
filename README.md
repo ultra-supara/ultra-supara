@@ -1,6 +1,6 @@
 ### Code wins arguments 👋
 
-- 🔭 I’m currently working at Platform Team as a Security Engineer @ [finatext](https://finatext.com/) (since 2024-)
+- 🔭 I’m currently working at Platform Team as a Security Engineer
 -   AWS ,web application platform, Offensive Security, Cloud Security
 - 🐤 githubID :ultra-supara(X :@4su_para)
 - ⭐️ I'm currently making linting checker for github actions,detail: [sisakulint](https://github.com/ultra-supara/sisakulint) , give me star⭐
