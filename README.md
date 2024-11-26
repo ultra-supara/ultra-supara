@@ -1,19 +1,20 @@
-### Code wins arguments 👋
+# Code wins arguments 👋
 
 - 🔭 I’m currently working at Platform Team as a Security Engineer
 -   AWS ,web application platform, Offensive Security, Cloud Security
 - 🐤 githubID :ultra-supara(X :@4su_para)
 - ⭐️ I'm currently making linting checker for github actions,detail: [sisakulint](https://github.com/ultra-supara/sisakulint) , give me star⭐
 
-- 💬 Regarding past achievements logo
+### 💬 Regarding past achievements
 
-<img src="https://github.com/ultra-supara/ultra-supara/assets/67861004/079b2d93-9a0e-4fa7-a509-cef0e01ea234" alt="seccamp" width="50" height="50"/> 
-2021:trainee, 2023:web security class tutor
+- Security-JAWS #35 Speaker
+    - [クラウドにおけるマルウェアやコンテンツ改ざんへの対策](https://speakerdeck.com/4su_para/security-jaws-di-35hui-mian-qiang-hui-kuraudoniokerumaruueayakontentugai-zanhenodui-ce)
+- CODE BLUE: Speaker at [cybertamago](https://cybertamago.org/tools.php#sisakulint) (‘24)
+    - [speakerdeck](https://speakerdeck.com/4su_para/sisakulint-codeblue-tou-ying-yong)
+- Security Camp: Attendee (‘21), Tutor at Web Security Class (‘23)
+- SecHack365: Philosophy Driven Course Trainee ('23)
 
-<img src="https://github.com/ultra-supara/ultra-supara/assets/67861004/ebf61208-8596-4c05-9dff-a0e141421135" alt="sechack365" width="50" height="50"/> 
-2023:trainee
-
-### Profile
+## Profile
 
 <div align="left">
   <h3>Languages and Tools:</h3>
