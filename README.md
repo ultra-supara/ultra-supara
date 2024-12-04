@@ -7,12 +7,12 @@
 
 ### 💬 Regarding past achievements
 
-- **Security-JAWS #35**: Speaker
+- **[Security-JAWS](https://s-jaws.connpass.com/) #35**: Speaker
     - [クラウドにおけるマルウェアやコンテンツ改ざんへの対策](https://speakerdeck.com/4su_para/security-jaws-di-35hui-mian-qiang-hui-kuraudoniokerumaruueayakontentugai-zanhenodui-ce)
-- **CODE BLUE**: Speaker at [cybertamago](https://cybertamago.org/tools.php#sisakulint) (‘24)
-    - [speakerdeck](https://speakerdeck.com/4su_para/sisakulint-codeblue-tou-ying-yong)
-- **Security Camp**: Attendee (‘21), Tutor at Web Security Class (‘23)
-- **SecHack365**: Philosophy Driven Course Trainee ('23)
+- **[CODE BLUE](https://codeblue.jp/)**: Speaker at [cybertamago](https://cybertamago.org/tools.php#sisakulint) (‘24)
+    - [sisakulint - CI-Friendly static linter with SAST, semantic analysis for GitHub Actions](https://speakerdeck.com/4su_para/sisakulint-codeblue-tou-ying-yong)
+- **[Security Camp](https://www.security-camp.or.jp/)**: Attendee (‘21), Tutor at Web Security Class (‘23)
+- **[SecHack365](https://sechack365.nict.go.jp/)**: Philosophy Driven Course Trainee ('23)
 
 ## Profile
 
