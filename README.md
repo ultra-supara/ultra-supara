@@ -1,7 +1,10 @@
 # Code wins arguments 👋
 
 - 🔭 I’m currently working at Platform Team (System Risk Division) as a Security Engineer !
-- ⭐️ web application platform, Offensive Security (webPT, CloudPT), Cloud Security (aws, GitHub Ecosystem), Corp IT (Jamf, Intune, EDR)
+- ⭐️ Focus
+    - Offensive Security (webPT, Cloud)
+    - Cloud Security (aws, GitHub Ecosystem)
+    - Corp IT (Jamf, Intune, EDR)
 - 🐤 X :@4su_para
 
 ### ⭐️ OSS development
