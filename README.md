@@ -1,7 +1,7 @@
 # Code wins arguments 👋
 
-- 🔭 I’m currently working at Platform Team as a Security Engineer
-- ⭐️ AWS ,web application platform, Offensive Security, Cloud Security
+- 🔭 I’m currently working at Platform Team (System Risk Division) as a Security Engineer !
+- ⭐️ web application platform, Offensive Security (webPT, CloudPT), Cloud Security (aws, GitHub Ecosystem), Corp IT (Jamf, Intune, EDR)
 - 🐤 X :@4su_para
 
 ### ⭐️ OSS development
@@ -21,14 +21,13 @@
 - **[CODE BLUE](https://cybertamago.org/tools.php#sisakulint)**: Speaker (‘24)
     - [sisakulint - CI-Friendly static linter with SAST, semantic analysis for GitHub Actions](https://speakerdeck.com/4su_para/sisakulint-codeblue-tou-ying-yong)
 - **SecHack365 Returns CFX**: Speaker (‘24)
-    - 「セキュリティ若手の会」のコミュニティ立ち上げ話と今度の展望をみんなでディスカッションする会
+    - @sec_wakateの今度の展望をみんなでディスカッションする会
 
 ### 💬 Community
 - **[RiST](https://risec.github.io/)**: member ('20-22)
 - **[Security Camp](https://www.security-camp.or.jp/)**: Attendee (‘21), Tutor at Web Security Class (‘23)
 - **[SecHack365](https://sechack365.nict.go.jp/)**: Philosophy Driven Course Trainee ('23)
-- **[セキュリティ若手の会](https://sec-wakate.connpass.com/)**: ('24-27)
-    - 創設者 & 幹事
+- **[セキュリティ若手の会](https://sec-wakate.connpass.com/)**: Founder & Host ('24-26)
     - [セキュリティ若手の会の活動について](https://zenn.dev/sec_wakate/articles/97fbca58f0e8d5)
     - [イベント開催記「第1回 セキュリティ若手の会（LT&交流会）」](https://zenn.dev/sec_wakate/articles/acd5935f189460)
 
