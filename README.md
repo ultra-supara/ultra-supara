@@ -7,12 +7,19 @@
 
 ### 💬 Regarding past achievements
 
-- **[Security-JAWS](https://s-jaws.connpass.com/) #35**: Speaker
+- **[Security-JAWS](https://s-jaws.connpass.com/) #35**: Speaker  (‘24)
     - [クラウドにおけるマルウェアやコンテンツ改ざんへの対策](https://speakerdeck.com/4su_para/security-jaws-di-35hui-mian-qiang-hui-kuraudoniokerumaruueayakontentugai-zanhenodui-ce)
-- **[CODE BLUE](https://codeblue.jp/)**: Speaker at [cybertamago](https://cybertamago.org/tools.php#sisakulint) (‘24)
+- **[CODE BLUE](https://cybertamago.org/tools.php#sisakulint)**: Speaker (‘24)
     - [sisakulint - CI-Friendly static linter with SAST, semantic analysis for GitHub Actions](https://speakerdeck.com/4su_para/sisakulint-codeblue-tou-ying-yong)
+- **SecHack365 Returns CFX**: Speaker (‘24)
+    - [「セキュリティ若手の会」のコミュニティ立ち上げ話と今度の展望をみんなでディスカッションする会](https://zenn.dev/sec_wakate/articles/acd5935f189460)
 - **[Security Camp](https://www.security-camp.or.jp/)**: Attendee (‘21), Tutor at Web Security Class (‘23)
 - **[SecHack365](https://sechack365.nict.go.jp/)**: Philosophy Driven Course Trainee ('23)
+
+### 💬 Community
+
+- **[セキュリティ若手の会](https://sec-wakate.connpass.com/)**
+    - 創設者 & 幹事
 
 ## Profile
 
