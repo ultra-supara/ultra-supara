@@ -14,7 +14,7 @@
     - *JSAC 2025 LT ('25)* 
 
 ### 💬 Regarding past achievements
-- **[Closed career Event at RiST]**: Speaker ('24)
+- **Closed Career Event at RiST**: Speaker ('24)
     - [とあるユーザー企業におけるリスクベースで考えるセキュリティ業務のお話し](https://speakerdeck.com/4su_para/toaruyuzaqi-ye-niokerurisukubesudekao-erusekiyuriteiye-wu-noohua-si)
 - **[Security-JAWS](https://s-jaws.connpass.com/) #35**: Speaker (‘24)
     - [クラウドにおけるマルウェアやコンテンツ改ざんへの対策](https://speakerdeck.com/4su_para/security-jaws-di-35hui-mian-qiang-hui-kuraudoniokerumaruueayakontentugai-zanhenodui-ce)
