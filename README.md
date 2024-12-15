@@ -14,8 +14,9 @@
     - *JSAC 2025 LT ('25)* 
 
 ### 💬 Regarding past achievements
-
-- **[Security-JAWS](https://s-jaws.connpass.com/) #35**: Speaker  (‘24)
+- **[Closed career Event at RiST]**: Speaker ('24)
+    - [とあるユーザー企業におけるリスクベースで考えるセキュリティ業務のお話し](https://speakerdeck.com/4su_para/toaruyuzaqi-ye-niokerurisukubesudekao-erusekiyuriteiye-wu-noohua-si)
+- **[Security-JAWS](https://s-jaws.connpass.com/) #35**: Speaker (‘24)
     - [クラウドにおけるマルウェアやコンテンツ改ざんへの対策](https://speakerdeck.com/4su_para/security-jaws-di-35hui-mian-qiang-hui-kuraudoniokerumaruueayakontentugai-zanhenodui-ce)
 - **[CODE BLUE](https://cybertamago.org/tools.php#sisakulint)**: Speaker (‘24)
     - [sisakulint - CI-Friendly static linter with SAST, semantic analysis for GitHub Actions](https://speakerdeck.com/4su_para/sisakulint-codeblue-tou-ying-yong)
@@ -23,6 +24,7 @@
     - 「セキュリティ若手の会」のコミュニティ立ち上げ話と今度の展望をみんなでディスカッションする会
 
 ### 💬 Community
+- **[RiST](https://risec.github.io/)**: member ('20-22)
 - **[Security Camp](https://www.security-camp.or.jp/)**: Attendee (‘21), Tutor at Web Security Class (‘23)
 - **[SecHack365](https://sechack365.nict.go.jp/)**: Philosophy Driven Course Trainee ('23)
 - **[セキュリティ若手の会](https://sec-wakate.connpass.com/)**: ('24-27)
