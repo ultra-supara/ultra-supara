@@ -14,6 +14,7 @@
     - *CODE BLUE ('24)*
 - **[disarmBot](https://github.com/sec-wakate/disarmBot)** (‘24-)
     - Preemptive approachs to enhance critical thinking against disinformation using the autonomous multi-LLM agent
+    - We are proposing this as one way to utilize information and intelligence from the MITRE ATT&CK Framework through LLM.
     - *JSAC 2025 LT ('25)*
  
 - **[Chromensics](https://github.com/ultra-supara/Chromensics)** (‘25-)
