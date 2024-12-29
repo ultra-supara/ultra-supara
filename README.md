@@ -13,8 +13,11 @@
     - CI-Friendly static linter with SAST, semantic analysis for GitHub Actions written in Go
     - *CODE BLUE ('24)*
 - **[disarmBot](https://github.com/sec-wakate/disarmBot)** (‘24-)
-    - Preemptive approachs to enhance critical thinking against disinformation using the autonomous multi-LLM agent "disarmBot"
-    - *JSAC 2025 LT ('25)* 
+    - Preemptive approachs to enhance critical thinking against disinformation using the autonomous multi-LLM agent
+    - *JSAC 2025 LT ('25)*
+ 
+- **[Chromensics](https://github.com/ultra-supara/Chromensics)** (‘25-)
+    - Chrome forensic tool for mac OS user that can retrieve cookie, credentials, and credit card data.
 
 ### 💬 Regarding past achievements
 - **Closed Career Event at RiST**: Speaker ('24)
