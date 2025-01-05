@@ -10,8 +10,8 @@
 ### ⭐️ OSS development
 
 - **[automatic_train](https://github.com/ultra-supara/automatic_train)** ('22-'23)
-    - This software automatically builds the optimal combination of deep learning models by automatically recombining and testing model checks.
-    - This was my graduation research at Ritsumeikan University, IHPC Lab, and I received a degree in Computer Science from this research.
+    - This software automatically builds the optimal combination of **Deep Neural Network models** by automatically recombining and testing model checks.
+    - This was my graduation research at IHPC Lab, Ritsumeikan University, and I received a degree in Computer Science from this research.
 
 - **[sisakulint](https://github.com/ultra-supara/sisakulint)** ('23-)
     - CI-Friendly static linter with SAST, semantic analysis for **GitHub Actions** written in Go
