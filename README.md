@@ -1,5 +1,5 @@
 # Code wins arguments 👋
-
+- 🐤 Welcome to my GitHub Pages, **atsushi, sada**（Bachelor of Computer Science) here!
 - 🔭 I’m currently working at Platform Team (System Risk Team) as a Security Engineer !
 - ⭐️ Focus
     - Offensive Security (Cloud)
@@ -9,16 +9,24 @@
 
 ### ⭐️ OSS development
 
+- **[automatic_train](https://github.com/ultra-supara/automatic_train)** ('22-'23)
+    - This software automatically builds the optimal combination of deep learning models by automatically recombining and testing model checks.
+    - This was my graduation research at Ritsumeikan University, IHPC Lab, and I received a degree in Computer Science from this research.
+
 - **[sisakulint](https://github.com/ultra-supara/sisakulint)** ('23-)
-    - CI-Friendly static linter with SAST, semantic analysis for GitHub Actions written in Go
-    - *CODE BLUE ('24)*
-- **[disarmBot](https://github.com/sec-wakate/disarmBot)** (‘24-)
-    - Preemptive approachs to enhance critical thinking against disinformation using the autonomous multi-LLM agent
+    - CI-Friendly static linter with SAST, semantic analysis for **GitHub Actions** written in Go
+    - This great tool not only provides linting but also SAST. We plan to provide autofix (public beta) in future work.
+        - *CODE BLUE cybertamago ('24)*
+        - *Black Hat Asia Arsenal ('25)*
+
+- **[disarmBot](https://github.com/ultra-supara/disarmBot)** (‘24-)
+    - disarmBot is a DiscordBot that uses the AutoGen to automatically create multiple LLM Agents, discuss about disinformation, and respond to users.
+    - It helps provide users with a **preemptive approach to strengthening their critical thinking** in the face of disinformation.
     - We are proposing this as one way to utilize information and intelligence from the MITRE ATT&CK Framework through LLM.
-    - *JSAC 2025 LT ('25)*
+        -  *JSAC 2025 LT ('25)*
  
 - **[Chromensics](https://github.com/ultra-supara/Chromensics)** (‘25-)
-    - Chrome forensic tool for mac OS user that can retrieve cookie, credentials, and credit card data.
+    - Chrome **forensic tool** for mac OS user that can retrieve cookie, credentials, and credit card data.
 
 ### 💬 Regarding past achievements
 - **Closed Career Event at RiST**: Speaker ('24)
