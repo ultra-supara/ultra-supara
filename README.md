@@ -8,12 +8,12 @@
 ### ⭐️ OSS development
 - **[automatic_train](https://github.com/ultra-supara/automatic_train)** ('22-'23)
     - This software automatically builds the optimal combination of **Deep Neural Network models** by automatically recombining and testing model checks.
-    - This was my graduation research at IHPC Lab, Ritsumeikan University, and I received a degree in Computer Science from this research.
+    - This was my graduation research at [IHPC Lab](http://www.ihpc.se.ritsumei.ac.jp/index.html), and I received a Computer Science degree from this research.
 
 - **[sisakulint](https://github.com/ultra-supara/sisakulint)** ('23-)
-    - CI-Friendly static linter with SAST, semantic analysis for **GitHub Actions** written in Go
-    - This great tool not only provides linting but also SAST. We plan to provide autofix (public beta) in future work.
-        - *CODE BLUE cybertamago ('24)*
+    - CI-Friendly static linter with SAST, semantic analysis for **GitHub Actions** written in Go!
+    - This great tool not only provides linting but also SAST, planing to provide autofix (public beta) for yaml in future work.
+        - *CODE BLUE [cybertamago](https://cybertamago.org/tools.php#sisakulint) ('24)*
         - *Black Hat Asia Arsenal ('25)*
 
 - **[disarmBot](https://github.com/ultra-supara/disarmBot)** (‘24-)
@@ -30,10 +30,11 @@
     - [とあるユーザー企業におけるリスクベースで考えるセキュリティ業務のお話し](https://speakerdeck.com/4su_para/toaruyuzaqi-ye-niokerurisukubesudekao-erusekiyuriteiye-wu-noohua-si)
 - **[Security-JAWS](https://s-jaws.connpass.com/) #35**: Speaker (‘24)
     - [クラウドにおけるマルウェアやコンテンツ改ざんへの対策](https://speakerdeck.com/4su_para/security-jaws-di-35hui-mian-qiang-hui-kuraudoniokerumaruueayakontentugai-zanhenodui-ce)
-- **[CODE BLUE](https://cybertamago.org/tools.php#sisakulint)**: Speaker (‘24)
+- **CODE BLUE cybertamago**: Speaker (‘24)
     - [sisakulint - CI-Friendly static linter with SAST, semantic analysis for GitHub Actions](https://speakerdeck.com/4su_para/sisakulint-codeblue-tou-ying-yong)
 - **SecHack365 Returns CFX**: Speaker (‘24)
     - @sec_wakateの今度の展望をみんなでディスカッションする会
+- **Black Hat Asia Arsenal**: Speaker ('25)
 
 ### 💬 Community
 - **[RiST](https://risec.github.io/)**: member ('20-22)
@@ -45,7 +46,7 @@
 
 ### ⭐️ Education
 - **[Ritsumeikan University](https://www.ritsumei.ac.jp/)** ('20-'24)
-    - Bachelor of Computer Science and Engineering ('24, March)
+    - Bachelor of Computer Science and Engineering (March, '24)
 
 ## Profile
 <div align="left">
