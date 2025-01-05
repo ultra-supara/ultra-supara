@@ -1,14 +1,11 @@
 # Code wins arguments 👋
-- 🐤 Welcome to my GitHub Pages, **atsushi, sada**（Bachelor of Computer Science) here!
+- 🐤 Welcome to my GitHub Pages, **atsushi, sada** here!
 - 🔭 I’m currently working at Platform Team (System Risk Team) as a Security Engineer !
 - ⭐️ Focus
-    - Offensive Security (Cloud)
     - Cloud Security (aws, GitHub Ecosystem)
     - Corp IT (Jamf, Intune, EDR)
-- 🐤 X :@4su_para
 
 ### ⭐️ OSS development
-
 - **[automatic_train](https://github.com/ultra-supara/automatic_train)** ('22-'23)
     - This software automatically builds the optimal combination of **Deep Neural Network models** by automatically recombining and testing model checks.
     - This was my graduation research at IHPC Lab, Ritsumeikan University, and I received a degree in Computer Science from this research.
@@ -46,8 +43,11 @@
     - [セキュリティ若手の会の活動について](https://zenn.dev/sec_wakate/articles/97fbca58f0e8d5)
     - [イベント開催記「第1回 セキュリティ若手の会（LT&交流会）」](https://zenn.dev/sec_wakate/articles/acd5935f189460)
 
-## Profile
+### ⭐️ Education
+- **[Ritsumeikan University](https://www.ritsumei.ac.jp/)** ('20-'24)
+    - Bachelor of Computer Science and Engineering ('24, March)
 
+## Profile
 <div align="left">
   <h3>Languages and Tools:</h3>
   <div> 
