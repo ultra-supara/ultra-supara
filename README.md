@@ -1,9 +1,9 @@
-# Code wins arguments 👋
-- 🐤 Welcome to my GitHub Pages, **atsushi, sada** here!
-- 🔭 I’m currently working at Platform Team (System Risk Team) as a Security Engineer !
+# Code wins arguments （つくったもん勝ちだ！！）👋
+- 🐤 Welcome to my GitHub Pages, **[atsushi, sada](https://www.blackhat.com/asia-25/arsenal/schedule/presenters.html#sada-atsushi-49627)** here!
+- 🔭 I’m currently working as a Security Engineer!
 - ⭐️ Focus
     - Cloud Security (aws, GitHub Ecosystem)
-    - Corp IT (Jamf, Intune, EDR)
+    - Enterprise Security (Jamf, Intune, EDR)
 
 ### ⭐️ OSS development
 - **[automatic_train](https://github.com/ultra-supara/automatic_train)** ('22-'23)
@@ -14,13 +14,13 @@
     - CI-Friendly static linter with SAST, semantic analysis for **GitHub Actions** written in Go!
     - This great tool not only provides linting but also SAST, planing to provide autofix (public beta) for yaml in future work.
         - *CODE BLUE [cybertamago](https://cybertamago.org/tools.php#sisakulint) ('24)*
-        - *Black Hat Asia Arsenal ('25)*
+        - *Black Hat Asia [Arsenal](https://www.blackhat.com/asia-25/arsenal/schedule/#sisakulint---ci-friendly-static-linter-with-sast-semantic-analysis-for-github-actions-43229) ('25)*
 
 - **[disarmBot](https://github.com/ultra-supara/disarmBot)** (‘24-)
     - disarmBot is a DiscordBot that uses the AutoGen to automatically create multiple LLM Agents, discuss about disinformation, and respond to users.
     - It helps provide users with a **preemptive approach to strengthening their critical thinking** in the face of disinformation.
     - We are proposing this as one way to utilize information and intelligence from the MITRE ATT&CK Framework through LLM.
-        -  *JSAC 2025 LT ('25)*
+        -  *JSAC 2025 [LT Talk](https://blogs.jpcert.or.jp/ja/2025/03/jsac2025-workshop-lightning-talk.html) ('25)*
  
 - **[Chromensics](https://github.com/ultra-supara/Chromensics)** (‘25-)
     - Chrome **forensic tool** for mac OS user that can retrieve cookie, credentials, and credit card data.
@@ -32,17 +32,18 @@
     - [クラウドにおけるマルウェアやコンテンツ改ざんへの対策](https://speakerdeck.com/4su_para/security-jaws-di-35hui-mian-qiang-hui-kuraudoniokerumaruueayakontentugai-zanhenodui-ce)
 - **CODE BLUE cybertamago**: Speaker (‘24)
     - [sisakulint - CI-Friendly static linter with SAST, semantic analysis for GitHub Actions](https://speakerdeck.com/4su_para/sisakulint-codeblue-tou-ying-yong)
-- **SecHack365 Returns CFX**: Speaker (‘24)
-    - @sec_wakateの今度の展望をみんなでディスカッションする会
-- **Black Hat Asia Arsenal**: Speaker ('25)
+- **Black Hat Asia Arsenal**: Presenter ('25)
+    - [BlackHat Asia 2025 Arsenal Slides: sisakulint - CI-Friendly static linter with SAST, semantic analysis for GitHub Actions](https://speakerdeck.com/4su_para/sisakulint-ci-friendly-static-linter-with-sast-semantic-analysis-for-github-actions)
 
 ### 💬 Community
 - **[RiST](https://risec.github.io/)**: member ('20-22)
-- **[Security Camp](https://www.security-camp.or.jp/)**: Attendee (‘21), Tutor at Web Security Class (‘23)
+- **[Security Camp](https://www.security-camp.or.jp/)**: Attendee (‘21), Tutor at Web Security Class (‘23), 専門委員 ('25-)
 - **[SecHack365](https://sechack365.nict.go.jp/)**: Philosophy Driven Course Trainee ('23)
 - **[セキュリティ若手の会](https://sec-wakate.connpass.com/)**: Founder & Host ('24-26)
     - [セキュリティ若手の会の活動について](https://zenn.dev/sec_wakate/articles/97fbca58f0e8d5)
+    - [セキュリティ・キャンプアワード2025:「セキュリティ若手の会」コミュニティ紹介資料](https://www.docswell.com/s/secwakate/52267G-2025-05-05-202054)
     - [イベント開催記「第1回 セキュリティ若手の会（LT&交流会）」](https://zenn.dev/sec_wakate/articles/acd5935f189460)
+    - [イベント開催記「第2回 セキュリティ若手の会（LT&交流会）」](https://zenn.dev/sec_wakate/articles/3891a59ab0b4fb)
 
 ### ⭐️ Education
 - **[Ritsumeikan University](https://www.ritsumei.ac.jp/)** ('20-'24)
