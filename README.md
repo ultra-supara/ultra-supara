@@ -30,8 +30,6 @@
     - [とあるユーザー企業におけるリスクベースで考えるセキュリティ業務のお話し](https://speakerdeck.com/4su_para/toaruyuzaqi-ye-niokerurisukubesudekao-erusekiyuriteiye-wu-noohua-si)
 - **[Security-JAWS](https://s-jaws.connpass.com/) #35**: Speaker (‘24)
     - [クラウドにおけるマルウェアやコンテンツ改ざんへの対策](https://speakerdeck.com/4su_para/security-jaws-di-35hui-mian-qiang-hui-kuraudoniokerumaruueayakontentugai-zanhenodui-ce)
-- **CODE BLUE cybertamago**: Speaker (‘24)
-    - [sisakulint - CI-Friendly static linter with SAST, semantic analysis for GitHub Actions](https://speakerdeck.com/4su_para/sisakulint-codeblue-tou-ying-yong)
 - **Black Hat Asia Arsenal**: Presenter ('25)
     - [BlackHat Asia 2025 Arsenal Slides: sisakulint - CI-Friendly static linter with SAST, semantic analysis for GitHub Actions](https://speakerdeck.com/4su_para/sisakulint-ci-friendly-static-linter-with-sast-semantic-analysis-for-github-actions)
 
