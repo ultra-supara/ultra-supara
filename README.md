@@ -28,20 +28,29 @@
 ### 💬 Regarding past achievements
 - **Closed Career Event at RiST**: Speaker ('24)
     - [とあるユーザー企業におけるリスクベースで考えるセキュリティ業務のお話し](https://speakerdeck.com/4su_para/toaruyuzaqi-ye-niokerurisukubesudekao-erusekiyuriteiye-wu-noohua-si)
+    
 - **[Security-JAWS](https://s-jaws.connpass.com/) #35**: Speaker (‘24)
     - [クラウドにおけるマルウェアやコンテンツ改ざんへの対策](https://speakerdeck.com/4su_para/security-jaws-di-35hui-mian-qiang-hui-kuraudoniokerumaruueayakontentugai-zanhenodui-ce)
+ 
+- **JSAC 2025**: LT Speaker ('25)
+    - [JSAC 2025 LT Introduction to MITRE ATT&CK utilization tools by multiple LLM agents and RAG](https://speakerdeck.com/4su_para/jsac-2025-lt-introduction-to-mitre-att-and-ck-utilization-tools-by-multiple-llm-agents-and-rag)
+
 - **Black Hat Asia Arsenal**: Presenter ('25)
     - [BlackHat Asia 2025 Arsenal Slides: sisakulint - CI-Friendly static linter with SAST, semantic analysis for GitHub Actions](https://speakerdeck.com/4su_para/sisakulint-ci-friendly-static-linter-with-sast-semantic-analysis-for-github-actions)
+ 
+- **セキュリティ若手の会(ワークショップ&交流会)**: Workshop Instructor ('25)
+    - [LLM Safety Hands On / LLMセキュリティの攻防入門 〜ガバナンスと脅威対策〜](https://sec-wakate.connpass.com/event/357530/#:~:text=1%EF%BC%9ALLM%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E6%94%BB%E9%98%B2%E5%85%A5%E9%96%80%20%E3%80%9C%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E3%81%A8%E8%84%85%E5%A8%81%E5%AF%BE%E7%AD%96%E3%80%9C)
 
 ### 💬 Community
 - **[RiST](https://risec.github.io/)**: member ('20-22)
-- **[Security Camp](https://www.security-camp.or.jp/)**: Attendee (‘21), Tutor at Web Security Class (‘23), 専門委員 ('25-)
+- **[Security Camp](https://www.security-camp.or.jp/)**: Attendee (‘21), Tutor at Web Security Class (‘23)
 - **[SecHack365](https://sechack365.nict.go.jp/)**: Philosophy Driven Course Trainee ('23)
 - **[セキュリティ若手の会](https://sec-wakate.connpass.com/)**: Founder & Host ('24-26)
     - [セキュリティ若手の会の活動について](https://zenn.dev/sec_wakate/articles/97fbca58f0e8d5)
     - [セキュリティ・キャンプアワード2025:「セキュリティ若手の会」コミュニティ紹介資料](https://www.docswell.com/s/secwakate/52267G-2025-05-05-202054)
     - [イベント開催記「第1回 セキュリティ若手の会（LT&交流会）」](https://zenn.dev/sec_wakate/articles/acd5935f189460)
     - [イベント開催記「第2回 セキュリティ若手の会（LT&交流会）」](https://zenn.dev/sec_wakate/articles/3891a59ab0b4fb)
+    - [イベント開催記「第3回 セキュリティ若手の会（ワークショップ&交流会）」](https://zenn.dev/sec_wakate/articles/e5f8e9d95c9eff)
 
 ### ⭐️ Education
 - **[Ritsumeikan University](https://www.ritsumei.ac.jp/)** ('20-'24)
