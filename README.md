@@ -51,6 +51,11 @@
     - [イベント開催記「第1回 セキュリティ若手の会（LT&交流会）」](https://zenn.dev/sec_wakate/articles/acd5935f189460)
     - [イベント開催記「第2回 セキュリティ若手の会（LT&交流会）」](https://zenn.dev/sec_wakate/articles/3891a59ab0b4fb)
     - [イベント開催記「第3回 セキュリティ若手の会（ワークショップ&交流会）」](https://zenn.dev/sec_wakate/articles/e5f8e9d95c9eff)
+    - 幹事のインタビュー記事
+        - [若手セキュリティエンジニアのインタビュー記事1「morioka12」](https://zenn.dev/sec_wakate/articles/7794490c5ea3af)
+        - [若手セキュリティエンジニアのインタビュー記事2「asu_para」](https://zenn.dev/sec_wakate/articles/f6f7c3e710ea2f)
+        - [若手セキュリティエンジニアのインタビュー記事3「hikae」](https://zenn.dev/sec_wakate/articles/aa349d8d823ab4)
+        - [若手セキュリティエンジニアのインタビュー記事4「pizzacat83」](https://zenn.dev/sec_wakate/articles/5e0b279a1baf02)
 
 ### ⭐️ Education
 - **[Ritsumeikan University](https://www.ritsumei.ac.jp/)** ('20-'24)
