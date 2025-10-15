@@ -22,8 +22,8 @@
     - We are proposing this as one way to utilize information and intelligence from the MITRE ATT&CK Framework through LLM.
         -  *JSAC 2025 [LT Talk](https://blogs.jpcert.or.jp/ja/2025/03/jsac2025-workshop-lightning-talk.html) ('25)*
  
-- **[MacStealer](https://github.com/ultra-supara/MacStealer))** (‘25-)
-- **[WingStealer](https://github.com/ultra-supara/WingStealer))** (‘25-)
+- **[MacStealer](https://github.com/ultra-supara/MacStealer)** (‘25-)
+- **[WingStealer](https://github.com/ultra-supara/WingStealer)** (‘25-)
     - Chrome InfoStealer for apple silicon macOS that can retrieve cookie, credentials, and credit carddata. This tool works local only, so not illegal model.
     - Chrome InfoStealer for Windows OS that can retrieve cookie, credentials, and credit carddata. This tool works local only, so not illegal model.
 
@@ -50,6 +50,7 @@
 - **[セキュリティ若手の会](https://sec-wakate.connpass.com/)**: Founder & Host ('24-26)
     - [セキュリティ若手の会の活動について](https://zenn.dev/sec_wakate/articles/97fbca58f0e8d5)
     - [セキュリティ・キャンプアワード2025:「セキュリティ若手の会」コミュニティ紹介資料](https://www.docswell.com/s/secwakate/52267G-2025-05-05-202054)
+    - [スポンサー発表: セキュリティエンジニアの仕事・業界をつなぐ「セキュリティ若手の会」](https://wakate.org/2025/08/18/58th-general/#:~:text=%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E7%99%BA%E8%A1%A8%3A%20%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%BB%95%E4%BA%8B%E3%83%BB%E6%A5%AD%E7%95%8C%E3%82%92%E3%81%A4%E3%81%AA%E3%81%90%E3%80%8C%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E8%8B%A5%E6%89%8B%E3%81%AE%E4%BC%9A%E3%80%8D%20(%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E8%8B%A5%E6%89%8B%E3%81%AE%E4%BC%9A%20%E6%B1%9F%E9%A0%AD%20%E8%BC%9D%20%E6%A7%98%20%E4%BD%90%E7%94%B0%20%E6%B7%B3%E5%8F%B2%20%E6%A7%98%20pizzacat83%E6%A7%98))
     - [イベント開催記「第1回 セキュリティ若手の会（LT&交流会）」](https://zenn.dev/sec_wakate/articles/acd5935f189460)
     - [イベント開催記「第2回 セキュリティ若手の会（LT&交流会）」](https://zenn.dev/sec_wakate/articles/3891a59ab0b4fb)
     - [イベント開催記「第3回 セキュリティ若手の会（ワークショップ&交流会）」](https://zenn.dev/sec_wakate/articles/e5f8e9d95c9eff)
