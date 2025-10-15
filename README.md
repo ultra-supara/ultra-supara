@@ -1,4 +1,4 @@
-# Code wins arguments （つくったもん勝ちだ！！）👋
+# Code wins arguments👋
 - 🐤 Welcome to my GitHub Pages, **[atsushi, sada](https://www.blackhat.com/asia-25/arsenal/schedule/presenters.html#sada-atsushi-49627)** here!
 - 🔭 I’m currently working as a Security Engineer!
 - ⭐️ Focus
@@ -22,8 +22,10 @@
     - We are proposing this as one way to utilize information and intelligence from the MITRE ATT&CK Framework through LLM.
         -  *JSAC 2025 [LT Talk](https://blogs.jpcert.or.jp/ja/2025/03/jsac2025-workshop-lightning-talk.html) ('25)*
  
-- **[Chromensics](https://github.com/ultra-supara/Chromensics)** (‘25-)
-    - Chrome **forensic tool** for mac OS user that can retrieve cookie, credentials, and credit card data.
+- **[MacStealer](https://github.com/ultra-supara/MacStealer))** (‘25-)
+- **[WingStealer](https://github.com/ultra-supara/WingStealer))** (‘25-)
+    - Chrome InfoStealer for apple silicon macOS that can retrieve cookie, credentials, and credit carddata. This tool works local only, so not illegal model.
+    - Chrome InfoStealer for Windows OS that can retrieve cookie, credentials, and credit carddata. This tool works local only, so not illegal model.
 
 ### 💬 Regarding past achievements
 - **Closed Career Event at RiST**: Speaker ('24)
