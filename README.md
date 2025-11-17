@@ -8,7 +8,7 @@
 ### ⭐️ Development
 - **[automatic_train](https://github.com/ultra-supara/automatic_train)** ('22-'23)
     - This software automatically builds the optimal combination of **Deep Neural Network models** by automatically recombining and testing model checks.
-    - This was my graduation research at [IHPC Lab](http://www.ihpc.se.ritsumei.ac.jp/index.html), and I received a Computer Science degree from this research.
+    - This was my graduation research at [IHPC Lab](http://www.ihpc.se.ritsumei.ac.jp/index.html)
 
 - **[sisakulint](https://github.com/ultra-supara/sisakulint)** ('23-)
     - CI-Friendly static linter with SAST, semantic analysis for **GitHub Actions** (written in Go)!
@@ -21,7 +21,7 @@
     - disarmBot is a discordBot that uses the [AG2](https://ag2.ai/) to automatically create multiple LLM Agents, discuss about disinformation, and respond to users.
     - It helps provide users with a **preemptive approach to strengthening their critical thinking** in the face of disinformation.
     - We are proposing this as one way to utilize information and intelligence from the MITRE ATT&CK Framework through LLM.
-        -  *JSAC 2025 [LT Talk](https://blogs.jpcert.or.jp/ja/2025/03/jsac2025-workshop-lightning-talk.html) ('25)*
+        -  *[JSAC 2025 LT Talk](https://blogs.jpcert.or.jp/ja/2025/03/jsac2025-workshop-lightning-talk.html) ('25)*
  
 - **[MacStealer](https://github.com/ultra-supara/MacStealer)** (‘25-)
     - Chrome InfoStealer for apple silicon macOS that can retrieve cookie, credentials, and credit carddata. This tool works local only, so not illegal model.
