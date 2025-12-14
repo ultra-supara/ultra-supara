@@ -29,10 +29,10 @@
     - Chrome InfoStealer for Windows OS that can retrieve cookie, credentials, and credit carddata. This tool works local only, so not illegal model.
 
 ### 💬 Regarding past achievements
-- **Closed Career Event at RiST**: Speaker ('24)
+- **Closed Career Event at RiST**: ('24)
     - [とあるユーザー企業におけるリスクベースで考えるセキュリティ業務のお話し](https://speakerdeck.com/4su_para/toaruyuzaqi-ye-niokerurisukubesudekao-erusekiyuriteiye-wu-noohua-si)
     
-- **[Security-JAWS](https://s-jaws.connpass.com/) #35**: Speaker (‘24)
+- **[Security-JAWS](https://s-jaws.connpass.com/) #35**: (‘24)
     - [クラウドにおけるマルウェアやコンテンツ改ざんへの対策](https://speakerdeck.com/4su_para/security-jaws-di-35hui-mian-qiang-hui-kuraudoniokerumaruueayakontentugai-zanhenodui-ce)
  
 - **JSAC 2025**: LT Speaker ('25)
@@ -43,6 +43,9 @@
  
 - **セキュリティ若手の会(ワークショップ&交流会)**: Workshop Instructor ('25)
     - [LLM Safety Hands On / LLMセキュリティの攻防入門 〜ガバナンスと脅威対策〜](https://sec-wakate.connpass.com/event/357530/#:~:text=1%EF%BC%9ALLM%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E6%94%BB%E9%98%B2%E5%85%A5%E9%96%80%20%E3%80%9C%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E3%81%A8%E8%84%85%E5%A8%81%E5%AF%BE%E7%AD%96%E3%80%9C)
+
+- **Findy TECH BATON シリーズ第6弾！「あなたの知らない ”サプライチェーン攻撃”を語る セキュリティ Night」** ('25)
+    - [npmパッケージのサプライチェーン問題](https://speakerdeck.com/4su_para/npmpatukezinosapuraitienwen-ti)
 
 ### 💬 Security Community
 - **[RiST](https://risec.github.io/)**: member ('20-22)
@@ -55,6 +58,7 @@
     - [イベント開催記「第1回 セキュリティ若手の会（LT&交流会）」](https://zenn.dev/sec_wakate/articles/acd5935f189460)
     - [イベント開催記「第2回 セキュリティ若手の会（LT&交流会）」](https://zenn.dev/sec_wakate/articles/3891a59ab0b4fb)
     - [イベント開催記「第3回 セキュリティ若手の会（ワークショップ&交流会）」](https://zenn.dev/sec_wakate/articles/e5f8e9d95c9eff)
+    - [イベント開催記「第4回 セキュリティ若手の会（LT&交流会）」](https://zenn.dev/sec_wakate/articles/999fd1fb2917f1)
     - 幹事のインタビュー記事
         - [若手セキュリティエンジニアのインタビュー記事1「morioka12」](https://zenn.dev/sec_wakate/articles/7794490c5ea3af)
         - [若手セキュリティエンジニアのインタビュー記事2「asu_para」](https://zenn.dev/sec_wakate/articles/f6f7c3e710ea2f)
