@@ -10,7 +10,7 @@
     - This software automatically builds the optimal combination of **Deep Neural Network models** by automatically recombining and testing model checks.
     - This was my graduation research at [IHPC Lab](http://www.ihpc.se.ritsumei.ac.jp/index.html)
 
-- **[sisakulint](https://github.com/ultra-supara/sisakulint)** ('23-)
+- **[sisakulint](https://github.com/ultra-supara/sisakulint)** ('23-) [document pages](https://sisaku-security.github.io/lint/)
     - CI-Friendly static linter with SAST, semantic analysis for **GitHub Actions** (written in Go)!
     - This great tool not only provides linting but also SAST, planing to provide autofix (public beta) for yaml in future work.
     - **The SARIF output is available and it integrates with GitHub Actions**, which greatly facilitates various operations on Actions.
