@@ -59,11 +59,16 @@
     - [イベント開催記「第2回 セキュリティ若手の会（LT&交流会）」](https://zenn.dev/sec_wakate/articles/3891a59ab0b4fb)
     - [イベント開催記「第3回 セキュリティ若手の会（ワークショップ&交流会）」](https://zenn.dev/sec_wakate/articles/e5f8e9d95c9eff)
     - [イベント開催記「第4回 セキュリティ若手の会（LT&交流会）」](https://zenn.dev/sec_wakate/articles/999fd1fb2917f1)
-    - 幹事のインタビュー記事
-        - [若手セキュリティエンジニアのインタビュー記事1「morioka12」](https://zenn.dev/sec_wakate/articles/7794490c5ea3af)
+    - インタビュー記事
         - [若手セキュリティエンジニアのインタビュー記事2「asu_para」](https://zenn.dev/sec_wakate/articles/f6f7c3e710ea2f)
-        - [若手セキュリティエンジニアのインタビュー記事3「hikae」](https://zenn.dev/sec_wakate/articles/aa349d8d823ab4)
-        - [若手セキュリティエンジニアのインタビュー記事4「pizzacat83」](https://zenn.dev/sec_wakate/articles/5e0b279a1baf02)
+
+### 🐤 Tech Blog
+- [VSCodeで生産性を上げる](https://zenn.dev/ultrasupara/articles/174429511504c7) **15,000+ Views!**
+- [grub rescue モードから抜ける](https://zenn.dev/ultrasupara/articles/dcd4b7a6d95729) **10,000+ Views!**
+- [macOS向けInfoStealerを技術的に解説してみた](https://zenn.dev/finatext/articles/1c1a2c78531057) **Finatext Tech Blog!**
+- [問題解決のためAWSドキュメントをどう追従するか](https://zenn.dev/ultrasupara/articles/6613ff64760fe4)
+- [GoreleaserとGitHub ActionsでプライベートリポジトリのCLIツールをbrewに公開する](https://zenn.dev/ultrasupara/articles/0efd250afc7b17)
+- [Kali LinuxでNvidia-driverを用いてデュアルモニターをセットアップする](https://zenn.dev/ultrasupara/articles/3235fc0ed0e509)
 
 ### ⭐️ Education
 - **[Ritsumeikan University](https://www.ritsumei.ac.jp/)** ('20-'24)
