@@ -25,8 +25,6 @@
  
 - **[MacStealer](https://github.com/ultra-supara/MacStealer)** (‘25-)
     - Chrome InfoStealer for apple silicon macOS that can retrieve cookie, credentials, and credit carddata. This tool works local only, so not illegal model.
-- **[WingStealer](https://github.com/ultra-supara/WingStealer)** (‘25-)
-    - Chrome InfoStealer for Windows OS that can retrieve cookie, credentials, and credit carddata. This tool works local only, so not illegal model.
 
 ### 💬 Regarding past achievements
 - **Closed Career Event at RiST**: ('24)
