@@ -7,9 +7,12 @@
 
 ### ⭐️ Current Development
 
-- **[sisakulint](https://github.com/ultra-supara/sisakulint)** ('23-present) [document pages](https://sisaku-security.github.io/lint/)
+- **[sisakulint](https://github.com/ultra-supara/sisakulint)** ('23-present)
+    - [document pages](https://sisaku-security.github.io/lint/)
+    - [sisakulint — SAST for GitHub Actions: 52 Rules, 38 Auto-Fix & Taint Tracking Engine - YouTube](https://www.youtube.com/watch?v=DhgqKOmzLSk)
     - CI-Friendly static linter with autofix, SAST and semantic analysis for **GitHub Actions**!
     - sisakulint outperforms GitHub's own CodeQL in both speed and coverage for Actions-specific vulnerabilities.
+  
   | Benchmark | Result |
   |---|---|
   | GitHub Security Lab (GHSL) advisories | **100% (18/18)** |
@@ -35,6 +38,8 @@
  
 - **[MachStealer](https://github.com/ultra-supara/MachStealer)** (‘25-present)
     - Open-source PoC reproducing the credential harvesting pipeline shared by macOS infostealer families (AMOS, Poseidon, Banshee, Cthulhu, Cuckoo). Apple Silicon only. No exfiltration by design.
+    - [MachStealer: The Shared Pipeline Behind Every macOS Infostealer — Security Research PoC - YouTube](https://www.youtube.com/watch?v=mzyQ9-8qsFg)
+    - [【ずんだもん解説】MachStealer：全macOSインフォスティーラーに共通する攻撃パイプラインを解剖する - YouTube](https://www.youtube.com/watch?v=9KyRqy37Iao)
 
 ### 💬 Regarding past achievements
 - **Closed Career Event at RiST**: ('24)
