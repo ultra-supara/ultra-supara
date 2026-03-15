@@ -5,26 +5,36 @@
     - Cloud Security (aws, GitHub Ecosystem)
     - Enterprise Security (Jamf, Intune, EDR)
 
-### ⭐️ Development
-- **[automatic_train](https://github.com/ultra-supara/automatic_train)** ('22-'23)
-    - This software automatically builds the optimal combination of **Deep Neural Network models** by automatically recombining and testing model checks.
-    - This was my graduation research at [IHPC Lab](http://www.ihpc.se.ritsumei.ac.jp/index.html)
+### ⭐️ Current Development
 
-- **[sisakulint](https://github.com/ultra-supara/sisakulint)** ('23-) [document pages](https://sisaku-security.github.io/lint/)
-    - CI-Friendly static linter with SAST, semantic analysis for **GitHub Actions** (written in Go)!
-    - This great tool not only provides linting but also SAST, planing to provide autofix (public beta) for yaml in future work.
-    - **The SARIF output is available and it integrates with GitHub Actions**, which greatly facilitates various operations on Actions.
-    - It is a convenient feature as it eliminates the need to return to the console for corrections (reducing switching costs).
-        - *[Black Hat Asia Arsenal Web Page](https://www.blackhat.com/asia-25/arsenal/schedule/#sisakulint---ci-friendly-static-linter-with-sast-semantic-analysis-for-github-actions-43229) ('25)*
+- **[sisakulint](https://github.com/ultra-supara/sisakulint)** ('23-present) [document pages](https://sisaku-security.github.io/lint/)
+    - CI-Friendly static linter with autofix, SAST and semantic analysis for **GitHub Actions**!
+    - sisakulint outperforms GitHub's own CodeQL in both speed and coverage for Actions-specific vulnerabilities.
+  | Benchmark | Result |
+  |---|---|
+  | GitHub Security Lab (GHSL) advisories | **100% (18/18)** |
+  | GitHub Security Advisories (GHSA) | **81.6% (31/38)** |
+  | Auto-fix coverage | **38+ rules** |
 
-- **[disarmBot](https://github.com/ultra-supara/disarmBot)** (‘24-)
-    - disarmBot is a discordBot that uses the [AG2](https://ag2.ai/) to automatically create multiple LLM Agents, discuss about disinformation, and respond to users.
-    - It helps provide users with a **preemptive approach to strengthening their critical thinking** in the face of disinformation.
-    - We are proposing this as one way to utilize information and intelligence from the MITRE ATT&CK Framework through LLM.
-        -  *[JSAC 2025 LT Talk](https://blogs.jpcert.or.jp/ja/2025/03/jsac2025-workshop-lightning-talk.html) ('25)*
+  **Detection categories**
+  | Category | Rules |
+  |---|---|
+  | Code Injection & Expression Safety | 9 |
+  | Supply Chain & Dependency Security | 7 |
+  | Credential & Secret Protection | 7 |
+  | Pipeline Poisoning & Artifact Integrity | 8 |
+  | Triggers & Access Control | 7 |
+  | Workflow Quality & Best Practices | 8 |
+
+  **Differentiators**
+  - Taint propagation across steps, jobs, and reusable workflows (unique capability)
+  - Multi-step semantic analysis, not single-step pattern matching
+  - Validated against real-world vulns in PX4-Autopilot, weaviate, nrwl/nx, ag-grid, etc.
+
+    - 🎤 *[Black Hat Asia Arsenal Web Page](https://www.blackhat.com/asia-25/arsenal/schedule/#sisakulint---ci-friendly-static-linter-with-sast-semantic-analysis-for-github-actions-43229) ('25)*
  
-- **[MacStealer](https://github.com/ultra-supara/MacStealer)** (‘25-)
-    - Chrome InfoStealer for apple silicon macOS that can retrieve cookie, credentials, and credit carddata. This tool works local only, so not illegal model.
+- **[MachStealer](https://github.com/ultra-supara/MachStealer)** (‘25-present)
+    - Open-source PoC reproducing the credential harvesting pipeline shared by macOS infostealer families (AMOS, Poseidon, Banshee, Cthulhu, Cuckoo). Apple Silicon only. No exfiltration by design.
 
 ### 💬 Regarding past achievements
 - **Closed Career Event at RiST**: ('24)
