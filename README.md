@@ -12,6 +12,7 @@
 ### ⭐️ Current Development
 
 - **[sisakulint](https://github.com/ultra-supara/sisakulint)** ('23-present)
+    - 🎤 *[Black Hat Asia Arsenal Web Page](https://www.blackhat.com/asia-25/arsenal/schedule/#sisakulint---ci-friendly-static-linter-with-sast-semantic-analysis-for-github-actions-43229) ('25)*
     - [document pages](https://sisaku-security.github.io/lint/)
     - [sisakulint — SAST for GitHub Actions: 52 Rules, 38 Auto-Fix & Taint Tracking Engine - YouTube](https://www.youtube.com/watch?v=DhgqKOmzLSk)
     - CI-Friendly static linter with autofix, SAST and semantic analysis for **GitHub Actions**!
@@ -37,15 +38,12 @@
   - Taint propagation across steps, jobs, and reusable workflows (unique capability)
   - Multi-step semantic analysis, not single-step pattern matching
   - Validated against real-world vulns in PX4-Autopilot, weaviate, nrwl/nx, ag-grid, etc.
-
-    - 🎤 *[Black Hat Asia Arsenal Web Page](https://www.blackhat.com/asia-25/arsenal/schedule/#sisakulint---ci-friendly-static-linter-with-sast-semantic-analysis-for-github-actions-43229) ('25)*
  
 - **[MachStealer](https://github.com/ultra-supara/MachStealer)** (‘25-present)
+    - 🎤 *[Black Hat USA Arsenal Web Page](https://blackhat.com/us-26/arsenal/schedule/?track[]=malware#machstealerone-pipeline-behind-every-macos-infostealer-52134) ('26)*
     - Open-source PoC reproducing the credential harvesting pipeline shared by macOS infostealer families (AMOS, Poseidon, Banshee, Cthulhu, Cuckoo). Apple Silicon only. No exfiltration by design.
     - [MachStealer: The Shared Pipeline Behind Every macOS Infostealer — Security Research PoC - YouTube](https://www.youtube.com/watch?v=mzyQ9-8qsFg)
     - [【ずんだもん解説】MachStealer：全macOSインフォスティーラーに共通する攻撃パイプラインを解剖する - YouTube](https://www.youtube.com/watch?v=9KyRqy37Iao)
- 
-    - 🎤 *[Black Hat Asia Arsenal Web Page](https://blackhat.com/us-26/arsenal/schedule/?track[]=malware#machstealerone-pipeline-behind-every-macos-infostealer-52134) ('26)*
 
 ### 💬 Regarding past achievements
 - **Closed Career Event at RiST**: ('24)
