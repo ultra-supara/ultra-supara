@@ -4,6 +4,10 @@
 - ⭐️ Focus
     - Cloud Security (aws, GitHub Ecosystem)
     - Enterprise Security (Jamf, Intune, EDR)
+    - Security Dev Tool (Static Analysis全般, Malware, CloudSec)
+- 🎤 Presentation
+    - BlackHat USA 2026 Arsenal (Malware Track) [link](https://blackhat.com/us-26/arsenal/schedule/?track[]=malware#machstealerone-pipeline-behind-every-macos-infostealer-52134)
+    - BlackHat ASIA 2025 Arsenal (Code Assesment Track) [link](https://www.blackhat.com/asia-25/arsenal/schedule/#sisakulint---ci-friendly-static-linter-with-sast-semantic-analysis-for-github-actions-43229)
 
 ### ⭐️ Current Development
 
@@ -11,7 +15,7 @@
     - [document pages](https://sisaku-security.github.io/lint/)
     - [sisakulint — SAST for GitHub Actions: 52 Rules, 38 Auto-Fix & Taint Tracking Engine - YouTube](https://www.youtube.com/watch?v=DhgqKOmzLSk)
     - CI-Friendly static linter with autofix, SAST and semantic analysis for **GitHub Actions**!
-    - sisakulint outperforms GitHub's own CodeQL in both speed and coverage for Actions-specific vulnerabilities.
+    - sisakulint outperforms GitHub official tool:CodeQL in both speed and coverage for Actions-specific vulnerabilities.
   
   | Benchmark | Result |
   |---|---|
@@ -40,6 +44,8 @@
     - Open-source PoC reproducing the credential harvesting pipeline shared by macOS infostealer families (AMOS, Poseidon, Banshee, Cthulhu, Cuckoo). Apple Silicon only. No exfiltration by design.
     - [MachStealer: The Shared Pipeline Behind Every macOS Infostealer — Security Research PoC - YouTube](https://www.youtube.com/watch?v=mzyQ9-8qsFg)
     - [【ずんだもん解説】MachStealer：全macOSインフォスティーラーに共通する攻撃パイプラインを解剖する - YouTube](https://www.youtube.com/watch?v=9KyRqy37Iao)
+ 
+    - 🎤 *[Black Hat Asia Arsenal Web Page](https://blackhat.com/us-26/arsenal/schedule/?track[]=malware#machstealerone-pipeline-behind-every-macos-infostealer-52134) ('26)*
 
 ### 💬 Regarding past achievements
 - **Closed Career Event at RiST**: ('24)
@@ -60,9 +66,13 @@
 - **Findy TECH BATON シリーズ第6弾！「あなたの知らない ”サプライチェーン攻撃”を語る セキュリティ Night」** ('25)
     - [npmパッケージのサプライチェーン問題](https://speakerdeck.com/4su_para/npmpatukezinosapuraitienwen-ti)
 
+- **Black Hat USA Arsenal**: Presenter ('26)
+
+- **Secueity Camp**: Instructor ('26)
+
 ### 💬 Security Community
 - **[RiST](https://risec.github.io/)**: member ('20-22)
-- **[Security Camp](https://www.security-camp.or.jp/)**: Attendee (‘21), Tutor at Web Security Class (‘23)
+- **[Security Camp](https://www.security-camp.or.jp/)**: Attendee (‘21), Tutor at Web Security Class (‘23), Instructor at AI Security Class ('26)
 - **[SecHack365](https://sechack365.nict.go.jp/)**: Philosophy Driven Course Trainee ('23)
 - **[セキュリティ若手の会](https://sec-wakate.connpass.com/)**: Co-Founder & Host ('24-26)
     - [セキュリティ若手の会の活動について](https://zenn.dev/sec_wakate/articles/97fbca58f0e8d5)
