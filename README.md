@@ -7,11 +7,13 @@
     - Security Dev Tool (Static Analysis全般, Malware, CloudSec)
 - 🎤 Presentation
     - BlackHat USA 2026 Arsenal (Malware Track) [link](https://blackhat.com/us-26/arsenal/schedule/?track[]=malware#machstealerone-pipeline-behind-every-macos-infostealer-52134)
+    - DEFCON 34 Demo labs [link](https://www.blackhat.com/asia-25/arsenal/schedule/#sisakulint---ci-friendly-static-linter-with-sast-semantic-analysis-for-github-actions-43229)
     - BlackHat ASIA 2025 Arsenal (Code Assesment Track) [link](https://www.blackhat.com/asia-25/arsenal/schedule/#sisakulint---ci-friendly-static-linter-with-sast-semantic-analysis-for-github-actions-43229)
 
 ### ⭐️ Current Development
 
 - **[sisakulint](https://github.com/ultra-supara/sisakulint)** ('23-present)
+    - 🎤 *[DEFCON 34 Demo labs](https://www.blackhat.com/asia-25/arsenal/schedule/#sisakulint---ci-friendly-static-linter-with-sast-semantic-analysis-for-github-actions-43229) ('26)*
     - 🎤 *[Black Hat Asia Arsenal Web Page](https://www.blackhat.com/asia-25/arsenal/schedule/#sisakulint---ci-friendly-static-linter-with-sast-semantic-analysis-for-github-actions-43229) ('25)*
     - [document pages](https://sisaku-security.github.io/lint/)
     - [sisakulint — SAST for GitHub Actions: 52 Rules, 38 Auto-Fix & Taint Tracking Engine - YouTube](https://www.youtube.com/watch?v=DhgqKOmzLSk)
@@ -66,7 +68,9 @@
 
 - **Black Hat USA Arsenal**: Presenter ('26)
 
-- **Secueity Camp**: Instructor ('26)
+- **DEFCON 34 Demo labs**: Presenter ('26)
+
+- **Secueity Camp**: AI Security Class Instructor ('26)
 
 ### 💬 Security Community
 - **[RiST](https://risec.github.io/)**: member ('20-22)
