@@ -2,14 +2,17 @@
 
 # [atsushi sada](https://blackhat.com/us-26/arsenal/schedule/presenters.html#atsushi-sada-52831)
 
-### Security Engineer — Static Analysis · Malware & Ransomware in Cloud· Software Supply-Chain Security
+### Security Engineer
+- Static Analysis
+- Malware & Ransomware in Cloud
+- Software Supply-Chain Security
 
 > *Code wins arguments.* I build the tools that break and defend the software supply chain.
 
 <a href="https://speakerdeck.com/4su_para"><img src="https://img.shields.io/badge/Speaker_Deck-009287?style=flat-square&logo=speakerdeck&logoColor=white" alt="Speaker Deck"/></a>
 <a href="https://zenn.dev/ultrasupara"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white" alt="Zenn"/></a>
 <a href="https://www.linkedin.com/in/atsushi-sada-a07736272/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.blackhat.com/asia-25/arsenal/schedule/presenters.html#sada-atsushi-49627"><img src="https://img.shields.io/badge/Speaker_Profile-000000?style=flat-square&logo=hackthebox&logoColor=white" alt="Speaker Profile"/></a>
+<a href="https://blackhat.com/us-26/arsenal/schedule/presenters.html#atsushi-sada-52831"><img src="https://img.shields.io/badge/Speaker_Profile-000000?style=flat-square&logo=hackthebox&logoColor=white" alt="Speaker Profile"/></a>
 
 <br/>
 
@@ -44,7 +47,7 @@
 
 CI-friendly static linter with autofix, SAST, and semantic analysis for **GitHub Actions**. It outperforms GitHub's official tool (CodeQL) in both speed and coverage for Actions-specific vulnerabilities.
 
-🎤 [DEF CON 34 Demo Labs](https://www.blackhat.com/asia-25/arsenal/schedule/#sisakulint---ci-friendly-static-linter-with-sast-semantic-analysis-for-github-actions-43229) ('26) · [Black Hat Asia Arsenal](https://www.blackhat.com/asia-25/arsenal/schedule/#sisakulint---ci-friendly-static-linter-with-sast-semantic-analysis-for-github-actions-43229) ('25) · 📖 [Docs](https://sisaku-security.github.io/lint/) · ▶️ [Demo video](https://www.youtube.com/watch?v=DhgqKOmzLSk)
+🎤 [DEF CON 34](https://www.blackhat.com/asia-25/arsenal/schedule/#sisakulint---ci-friendly-static-linter-with-sast-semantic-analysis-for-github-actions-43229) ('26) · [Black Hat Asia](https://www.blackhat.com/asia-25/arsenal/schedule/#sisakulint---ci-friendly-static-linter-with-sast-semantic-analysis-for-github-actions-43229) ('25) · 📖 [Docs](https://sisaku-security.github.io/lint/) · ▶️ [Demo video](https://www.youtube.com/watch?v=DhgqKOmzLSk)
 
 | Benchmark | Result |
 |---|---|
@@ -75,7 +78,13 @@ CI-friendly static linter with autofix, SAST, and semantic analysis for **GitHub
 
 Forensic Tool & reproducing the credential-harvesting pipeline shared by macOS infostealer families (AMOS, Poseidon, Banshee, Cthulhu, Cuckoo). Apple Silicon only. **No exfiltration by design.**
 
-🎤 [Black Hat USA Arsenal · Malware Track](https://blackhat.com/us-26/arsenal/schedule/?track[]=malware#machstealerone-pipeline-behind-every-macos-infostealer-52134) ('26) · ▶️ [Research walkthrough (EN)](https://www.youtube.com/watch?v=mzyQ9-8qsFg) · ▶️ [ずんだもん解説 (JP)](https://www.youtube.com/watch?v=9KyRqy37Iao)
+🎤 [Black Hat USA](https://blackhat.com/us-26/arsenal/schedule/?track[]=malware#machstealerone-pipeline-behind-every-macos-infostealer-52134) ('26) · ▶️ [Research walkthrough (EN)](https://www.youtube.com/watch?v=mzyQ9-8qsFg) · ▶️ [ずんだもん解説 (JP)](https://www.youtube.com/watch?v=9KyRqy37Iao)
+
+#### [SIGIL](https://github.com/ultra-supara/SIGIL) &nbsp;<sub>'26 – present</sub>
+
+Local-first **AI-BOM** generator for auditing local LLMs — a single static **Rust** binary that inventories every local model, verifies artefacts against manifest digests, classifies runtime API exposure, detects license obligations, and lifts native binaries through a guarded SafeISA. Every PASS / WARN / FAIL comes from a deterministic analyzer plus a YAML policy — **no cloud, no subprocess spawn, no LLM in the verdict path.**
+
+📖 [Live site](https://ultra-supara.github.io/SIGIL/) · 🔎 [AI-BOM viewer](https://ultra-supara.github.io/SIGIL/viewer/) · 📊 [State of Local AI Audit — 2026 H1](https://ultra-supara.github.io/SIGIL/reports/2026-h1/)
 
 ---
 
@@ -151,6 +160,7 @@ Credited vulnerability research: a transpiler-runtime audit of enspirit/elo and 
 **Languages**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Cloud & Infra**
@@ -158,12 +168,3 @@ Credited vulnerability research: a transpiler-runtime audit of enspirit/elo and 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white)
-
-**Security Tooling**
-
-![YARA](https://img.shields.io/badge/YARA-0e7fc0?style=flat-square)
-![Open Policy Agent](https://img.shields.io/badge/Open_Policy_Agent-7D9199?style=flat-square&logo=openpolicyagent&logoColor=white)
-![gVisor](https://img.shields.io/badge/gVisor-1a73e8?style=flat-square)
-![Jamf](https://img.shields.io/badge/Jamf-4A90D9?style=flat-square)
-![Microsoft Intune](https://img.shields.io/badge/Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
