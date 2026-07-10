@@ -2,10 +2,10 @@
 
 # [atsushi sada](https://blackhat.com/us-26/arsenal/schedule/presenters.html#atsushi-sada-52831)
 
-### Security Engineer
-- Static Analysis
-- Malware & Ransomware in Cloud
-- Software Supply-Chain Security
+### Security Engineer & Founder
+Static Analysis
+Malware & Ransomware in Cloud
+Software Supply-Chain Security
 
 > *Code wins arguments.* I build the tools that break and defend the software supply chain.
 
@@ -27,17 +27,10 @@
 
 ### 🔭 About
 
-- 🐤 **Security Engineer** at a fintech startup — I ship security tooling and research offensive techniques end to end.
+- 🐤 **Security Engineer** especially Enterprise Security.
 - ⭐️ **Focus** — Enterprise Security (AWS, GitHub ecosystem, MDM, EDR) · Security Dev Tooling (Static Analysis, Malware, CloudSec)・Offensive Security（FireFox）
 - 🎤 Speaker at **Black Hat USA 2026**, **DEF CON 34**, **Black Hat Asia 2025**, and **JSAC 2025**.
 - 🎓 B.S. in Computer Science & Engineering, [Ritsumeikan University](https://www.ritsumei.ac.jp/) ('24).
-
-<div align="center">
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ultra-supara&theme=github#gh-light-mode-only" alt="GitHub stats"/>
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ultra-supara&theme=github#gh-light-mode-only" alt="Top languages"/>
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ultra-supara&theme=github_dark#gh-dark-mode-only" alt="GitHub stats"/>
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ultra-supara&theme=github_dark#gh-dark-mode-only" alt="Top languages"/>
-</div>
 
 ---
 
