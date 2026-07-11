@@ -3,11 +3,11 @@
 # [atsushi sada](https://blackhat.com/us-26/arsenal/schedule/presenters.html#atsushi-sada-52831)
 
 ### Security Engineer & Founder
-Static Analysis
-Malware & Ransomware in Cloud
+Static Analysis, 
+Malware & Ransomware in Cloud, 
 Software Supply-Chain Security
 
-> *Code wins arguments.* I build the tools that break and defend the software supply chain.
+> *Code wins arguments.* I build the tools that defend the software supply chain.
 
 <a href="https://speakerdeck.com/4su_para"><img src="https://img.shields.io/badge/Speaker_Deck-009287?style=flat-square&logo=speakerdeck&logoColor=white" alt="Speaker Deck"/></a>
 <a href="https://zenn.dev/ultrasupara"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white" alt="Zenn"/></a>
@@ -147,6 +147,12 @@ Credited vulnerability research: a transpiler-runtime audit of enspirit/elo and 
 - [Kali LinuxでNvidia-driverを用いてデュアルモニターをセットアップする](https://zenn.dev/ultrasupara/articles/3235fc0ed0e509)
 
 ---
+
+### ✍️ Tech Book
+
+- [リバイバル版 mini container book](https://github.com/ultra-supara/mini-container-book)
+- [今日から使えるセキュリティの歩き方：Security for beginners](https://techbookfest.org/product/jQFszziB3YHXLYbg4FcLDh?productVariantID=rEKEiN1iKms3ehKTMWxYkS)
+- [今日から使えるセキュリティの泳ぎ方：Security for beginners](https://techbookfest.org/product/rErv4fbKzk0gHEPrhTB7jb?productVariantID=e3mgdhZkgFd5q9BhtBPsXH)
 
 ### 🧰 Tech Stack
 
