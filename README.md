@@ -83,17 +83,20 @@ Local-first **AI-BOM** generator for auditing local LLMs — a single static **R
 
 ### 🎯 Offensive Security — CVEs
 
-Credited vulnerability research: a transpiler-runtime audit of enspirit/elo and reported memory-safety / mitigation-bypass issues in **Mozilla Firefox**.
+Credited vulnerability research: a transpiler-runtime audit of enspirit/elo and reported memory-safety, site-isolation, information-disclosure, and mitigation-bypass issues in **Mozilla Firefox**.
 
 | CVE | Severity | Target | Vulnerability | Advisory |
 |:---|:---:|:---|:---|:---:|
 | **CVE-2026-44266** | ![Critical](https://img.shields.io/badge/Critical-9.8-E5484D?style=flat-square) | Elo · Ruby backend | RCE via unescaped `#{...}` interpolation in emitted string literals & subtype-constraint labels | [🔗](https://github.com/enspirit/elo/security/advisories/GHSA-7w38-ggh5-v542) |
 | **CVE-2026-44267** | ![Critical](https://img.shields.io/badge/Critical-9.8-E5484D?style=flat-square) | Elo · JS emitter | Sandbox escape to arbitrary Node.js / browser code execution via unfiltered `.constructor` member access | [🔗](https://github.com/enspirit/elo/security/advisories/GHSA-33r5-xmm8-v6x5) |
 | **CVE-2026-44265** | ![High](https://img.shields.io/badge/High-7.4-F76808?style=flat-square) | Elo · all backends | Code injection via unvalidated emission of programmatic AST fields (literal, identifier, member-access, object key, datapath, lambda param) | [🔗](https://github.com/enspirit/elo/security/advisories/GHSA-x9rp-7wh3-2rj5) |
+| **CVE-2026-16393** | ![Moderate](https://img.shields.io/badge/Moderate-FFB224?style=flat-square) | Firefox 153 | Cross-process information disclosure: GPU-memory padding bytes exposed to a content process during WebGPU buffer copies | [🔗](https://www.mozilla.org/en-US/security/advisories/mfsa2026-68/#CVE-2026-16393) |
+| **CVE-2026-16387** | ![Moderate](https://img.shields.io/badge/Moderate-FFB224?style=flat-square) | Firefox 153 | Race condition allowing cross-process IPC interception or disruption | [🔗](https://www.mozilla.org/en-US/security/advisories/mfsa2026-68/#CVE-2026-16387) |
+| **CVE-2026-15719** | ![Critical](https://img.shields.io/badge/Critical-E5484D?style=flat-square) | Firefox 152.0.6 · ESR 140.13 · ESR 115.38 | UXSS: attacker JavaScript in a cross-process, cross-origin iframe executes with victim-origin privileges | [🔗](https://www.mozilla.org/en-US/security/advisories/mfsa2026-67/#CVE-2026-15719) |
 | **CVE-2026-12307** | ![Moderate](https://img.shields.io/badge/Moderate-FFB224?style=flat-square) | Firefox 152 | Memory-safety vulnerability (credited reporter) | [🔗](https://www.mozilla.org/en-US/security/advisories/mfsa2026-57/#CVE-2026-12307) |
 | **CVE-2026-8969** | ![Low](https://img.shields.io/badge/Low-9BA1A6?style=flat-square) | Firefox 151 | Mitigation bypass in the DOM security component | [🔗](https://www.mozilla.org/en-US/security/advisories/mfsa2026-46/#CVE-2026-8969) |
 
-<sub>Firefox entries credit **Atsushi Sada** as reporter ([Bug 2038133](https://bugzilla.mozilla.org/show_bug.cgi?id=2038133), [Bug 2031123](https://bugzilla.mozilla.org/show_bug.cgi?id=2031123)).</sub>
+<sub>Firefox entries credit **Atsushi Sada** as reporter ([Bug 2045410](https://bugzilla.mozilla.org/show_bug.cgi?id=2045410), [Bug 2043200](https://bugzilla.mozilla.org/show_bug.cgi?id=2043200), [Bug 2043820](https://bugzilla.mozilla.org/show_bug.cgi?id=2043820), [Bug 2038133](https://bugzilla.mozilla.org/show_bug.cgi?id=2038133), [Bug 2031123](https://bugzilla.mozilla.org/show_bug.cgi?id=2031123)).</sub>
 
 ---
 
