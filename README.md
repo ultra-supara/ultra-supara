@@ -4,8 +4,9 @@
 
 ### Security Engineer & Founder
 Static Analysis, 
-Malware & Ransomware in Cloud, 
-Software Supply-Chain Security
+Malware in Cloud & Browser,
+Software Supply-Chain Security,
+Offensive Security
 
 > *Code wins arguments.* I build the tools that defend the software supply chain.
 
