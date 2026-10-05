@@ -40,7 +40,7 @@ AI Governance
     - Security Dev Tooling (Static Analysis, Malware, CloudSec)
     - Offensive Security（FireFox・Chrome）
 - 🎤 **Security Researcher**
-    - Speaker at Top Cyber Security Conferences such as **Black Hat USA 2026**, **DEF CON 34**, **Black Hat Asia 2025**, and **JSAC 2025**.
+    - Speaker at the world's premier cybersecurity conferences such as **Black Hat USA 2026**, **DEF CON 34**, **Black Hat Asia 2025**, and **JSAC 2025**.
 - 🎓 B.S. in Computer Science & Engineering, [Ritsumeikan University](https://www.ritsumei.ac.jp/) ('24).
 
 ---
