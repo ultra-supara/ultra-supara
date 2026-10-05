@@ -36,11 +36,11 @@ AI Governance
     - AI governance
 - 🏛️ **IPA（独立行政法人情報処理推進機構）専門委員** — 2026–present.
 - ⭐️ **Focus**
-    - Enterprise Security (AWS, GitHub ecosystem, modile devices, EDR)
+    - Enterprise Security (AWS, GitHub ecosystem, mobile devices, EDR)
     - Security Dev Tooling (Static Analysis, Malware, CloudSec)
     - Offensive Security（FireFox・Chrome）
-- 🎤 **Ssecurity Researcher**
-    - Speaker at Top Cyber Security Confrences such as **Black Hat USA 2026**, **DEF CON 34**, **Black Hat Asia 2025**, and **JSAC 2025**.
+- 🎤 **Security Researcher**
+    - Speaker at Top Cyber Security Conferences such as **Black Hat USA 2026**, **DEF CON 34**, **Black Hat Asia 2025**, and **JSAC 2025**.
 - 🎓 B.S. in Computer Science & Engineering, [Ritsumeikan University](https://www.ritsumei.ac.jp/) ('24).
 
 ---
