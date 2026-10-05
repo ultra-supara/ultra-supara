@@ -2,12 +2,14 @@
 
 # [atsushi sada](https://blackhat.com/us-26/arsenal/schedule/presenters.html#atsushi-sada-52831)
 
-### Security Engineer
-- Static Analysis
-- Malware & Ransomware in Cloud
-- Software Supply-Chain Security
+### Security Engineer & Founder
+Static Analysis,
+Threat Analysis,
+Malware in Cloud & Browser,
+Software Supply-Chain Security,
+Offensive Security
 
-> *Code wins arguments.* I build the tools that break and defend the software supply chain.
+> *Code wins arguments.* I build the tools that defend the software supply chain.
 
 <a href="https://speakerdeck.com/4su_para"><img src="https://img.shields.io/badge/Speaker_Deck-009287?style=flat-square&logo=speakerdeck&logoColor=white" alt="Speaker Deck"/></a>
 <a href="https://zenn.dev/ultrasupara"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white" alt="Zenn"/></a>
@@ -32,13 +34,6 @@
 - ⭐️ **Focus** — Enterprise Security (AWS, GitHub ecosystem, MDM, EDR) · Security Dev Tooling (Static Analysis, Malware, CloudSec)・Offensive Security（FireFox）
 - 🎤 Speaker at **Black Hat USA 2026**, **DEF CON 34**, **Black Hat Asia 2025**, and **JSAC 2025**.
 - 🎓 B.S. in Computer Science & Engineering, [Ritsumeikan University](https://www.ritsumei.ac.jp/) ('24).
-
-<div align="center">
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ultra-supara&theme=github#gh-light-mode-only" alt="GitHub stats"/>
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ultra-supara&theme=github#gh-light-mode-only" alt="Top languages"/>
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ultra-supara&theme=github_dark#gh-dark-mode-only" alt="GitHub stats"/>
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ultra-supara&theme=github_dark#gh-dark-mode-only" alt="Top languages"/>
-</div>
 
 ---
 
@@ -102,12 +97,15 @@ Credited vulnerability research: a transpiler-runtime audit of enspirit/elo and 
 | **CVE-2026-44266** | ![Critical](https://img.shields.io/badge/Critical-9.8-E5484D?style=flat-square) | Elo · Ruby backend | RCE via unescaped `#{...}` interpolation in emitted string literals & subtype-constraint labels | [🔗](https://github.com/enspirit/elo/security/advisories/GHSA-7w38-ggh5-v542) |
 | **CVE-2026-44267** | ![Critical](https://img.shields.io/badge/Critical-9.8-E5484D?style=flat-square) | Elo · JS emitter | Sandbox escape to arbitrary Node.js / browser code execution via unfiltered `.constructor` member access | [🔗](https://github.com/enspirit/elo/security/advisories/GHSA-33r5-xmm8-v6x5) |
 | **CVE-2026-44265** | ![High](https://img.shields.io/badge/High-7.4-F76808?style=flat-square) | Elo · all backends | Code injection via unvalidated emission of programmatic AST fields (literal, identifier, member-access, object key, datapath, lambda param) | [🔗](https://github.com/enspirit/elo/security/advisories/GHSA-x9rp-7wh3-2rj5) |
+| **CVE-2026-15719** | ![Critical](https://img.shields.io/badge/Critical-E5484D?style=flat-square) | Firefox 152.0.6 · ESR 140.13 · ESR 115.38 | UXSS: attacker JavaScript in a cross-process, cross-origin iframe executes with victim-origin privileges | [🔗](https://www.mozilla.org/en-US/security/advisories/mfsa2026-67/#CVE-2026-15719) |
 | **CVE-2026-92041** | ![Moderate](https://img.shields.io/badge/Moderate-FFB224?style=flat-square) | Firefox 156 | Opaque Response Blocking (ORB) bypass via an unvalidated `isInDevToolsContext` IPC flag supplied by a compromised content process | [🔗](https://www.mozilla.org/en-US/security/advisories/mfsa2026-90/#CVE-2026-92041) |
-| **CVE-2026-12307** | ![Moderate](https://img.shields.io/badge/Moderate-FFB224?style=flat-square) | Firefox 152 | Memory-safety vulnerability (credited reporter) | [🔗](https://www.mozilla.org/en-US/security/advisories/mfsa2026-57/#CVE-2026-12307) |
+| **CVE-2026-16393** | ![Moderate](https://img.shields.io/badge/Moderate-FFB224?style=flat-square) | Firefox 153 | Cross-process information disclosure: GPU-memory padding bytes exposed to a content process during WebGPU buffer copies | [🔗](https://www.mozilla.org/en-US/security/advisories/mfsa2026-68/#CVE-2026-16393) |
+| **CVE-2026-16387** | ![Moderate](https://img.shields.io/badge/Moderate-FFB224?style=flat-square) | Firefox 153 | Race condition allowing cross-process IPC interception or disruption | [🔗](https://www.mozilla.org/en-US/security/advisories/mfsa2026-68/#CVE-2026-16387) |
+| **CVE-2026-12307** | ![Moderate](https://img.shields.io/badge/Moderate-FFB224?style=flat-square) | Firefox 152 | DevTools StyleEditor local file overwrite or creation after a save gesture via attacker-controlled source-map `file://` labels | [🔗](https://www.mozilla.org/en-US/security/advisories/mfsa2026-57/#CVE-2026-12307) |
 | **CVE-2026-84135** | ![Low](https://img.shields.io/badge/Low-9BA1A6?style=flat-square) | Firefox Focus · Android | Missing `LoadUrlFlags.external()` lets a zero-permission app force privileged page navigation and URL-query-driven pref writes without user interaction | [🔗](https://www.mozilla.org/en-US/security/advisories/mfsa2026-82/#CVE-2026-84135) |
-| **CVE-2026-8969** | ![Low](https://img.shields.io/badge/Low-9BA1A6?style=flat-square) | Firefox 151 | Mitigation bypass in the DOM security component | [🔗](https://www.mozilla.org/en-US/security/advisories/mfsa2026-46/#CVE-2026-8969) |
+| **CVE-2026-8969** | ![Low](https://img.shields.io/badge/Low-9BA1A6?style=flat-square) | Firefox 151 | AudioWorklet bypass of Trusted Types enforcement for `require-trusted-types-for 'script'` CSP | [🔗](https://www.mozilla.org/en-US/security/advisories/mfsa2026-46/#CVE-2026-8969) |
 
-<sub>Firefox and Firefox Focus entries credit **Atsushi Sada** as reporter ([Bug 2029482](https://bugzilla.mozilla.org/show_bug.cgi?id=2029482), [Bug 2038133](https://bugzilla.mozilla.org/show_bug.cgi?id=2038133), [Bug 2046661](https://bugzilla.mozilla.org/show_bug.cgi?id=2046661), [Bug 2031123](https://bugzilla.mozilla.org/show_bug.cgi?id=2031123)).</sub>
+<sub>Firefox and Firefox Focus entries credit **Atsushi Sada** as reporter ([Bug 2029482](https://bugzilla.mozilla.org/show_bug.cgi?id=2029482), [Bug 2031123](https://bugzilla.mozilla.org/show_bug.cgi?id=2031123), [Bug 2038133](https://bugzilla.mozilla.org/show_bug.cgi?id=2038133), [Bug 2043200](https://bugzilla.mozilla.org/show_bug.cgi?id=2043200), [Bug 2043820](https://bugzilla.mozilla.org/show_bug.cgi?id=2043820), [Bug 2045410](https://bugzilla.mozilla.org/show_bug.cgi?id=2045410), [Bug 2046661](https://bugzilla.mozilla.org/show_bug.cgi?id=2046661)).</sub>
 
 ---
 
@@ -171,6 +169,12 @@ Firefoxを対象に、AIエージェントでロジックバグを継続的に�
 - [Kali LinuxでNvidia-driverを用いてデュアルモニターをセットアップする](https://zenn.dev/ultrasupara/articles/3235fc0ed0e509)
 
 ---
+
+### ✍️ Tech Book
+
+- [リバイバル版 mini container book](https://github.com/ultra-supara/mini-container-book)
+- [今日から使えるセキュリティの歩き方：Security for beginners](https://techbookfest.org/product/jQFszziB3YHXLYbg4FcLDh?productVariantID=rEKEiN1iKms3ehKTMWxYkS)
+- [今日から使えるセキュリティの泳ぎ方：Security for beginners](https://techbookfest.org/product/rErv4fbKzk0gHEPrhTB7jb?productVariantID=e3mgdhZkgFd5q9BhtBPsXH)
 
 ### 🧰 Tech Stack
 
