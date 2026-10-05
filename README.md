@@ -3,12 +3,12 @@
 # [atsushi sada](https://blackhat.com/us-26/arsenal/schedule/presenters.html#atsushi-sada-52831)
 
 ### Security Engineer & Founder
-Static Analysis,\n
-Threat Analysis,\n
-Malware in Cloud & Browser,\n
-Software Supply-Chain Security,\n
-Offensive Security \n
-AI Governance \n
+Static Analysis,<br/>
+Threat Analysis,<br/>
+Malware in Cloud & Browser,<br/>
+Software Supply-Chain Security,<br/>
+Offensive Security<br/>
+AI Governance
 
 > *Code wins arguments.* I build the tools that defend the software supply chain.
 
@@ -124,6 +124,7 @@ Credited vulnerability research: a transpiler-runtime audit of enspirit/elo and 
 | 2026 | Black Hat USA Arsenal · Malware Track | MachStealer | [🔗](https://blackhat.com/us-26/arsenal/schedule/?track[]=malware#machstealerone-pipeline-behind-every-macos-infostealer-52134) · [Slides](https://speakerdeck.com/4su_para/blackhat-usa-arsenal-machstealer-one-pipeline-behind-every-macos-infostealer) · [Video](https://www.youtube.com/watch?v=epXhNheBVHM) |
 | 2026 | DEF CON 34 Demo Labs | sisakulint | [🔗](https://defcon.org/html/defcon-34/dc-34-demolabs.html#content_66530) · [Slides](https://speakerdeck.com/4su_para/defcon34-demolabs-sisakulint-ci-friendly-static-linter-with-autofix-sast-semantic-analysis-for-github-actions) |
 | 2026 | セキュリティ・キャンプ全国大会 · Class D2 | AIシステムにおける脅威対策とガバナンス実践 — Instructor | [🔗](https://www.ipa.go.jp/jinzai/security-camp/zenkoku_program.html#classd) |
+| 2026 | サイバー防衛研究会 · 8月例会 | フロンティアAIの「脆弱性発見農場」で見た景色――価値の重心はどこへ移るのか — Invited Speaker | [🔗](https://inods.co.jp/topics/cyber/10594/) |
 | 2025 | Black Hat Asia Arsenal · Code Assessment　Track | sisakulint　| [🔗](https://speakerdeck.com/4su_para/sisakulint-ci-friendly-static-linter-with-sast-semantic-analysis-for-github-actions) |
 | 2025 | JSAC 2025 | MITRE ATT&CK tooling via multi-LLM agents + RAG — LT | [🔗](https://speakerdeck.com/4su_para/jsac-2025-lt-introduction-to-mitre-att-and-ck-utilization-tools-by-multiple-llm-agents-and-rag) |
 | 2025 | セキュリティ若手の会 Workshop | LLM Safety Hands-On — Instructor | [🔗](https://sec-wakate.connpass.com/event/357530/) |
@@ -135,15 +136,11 @@ Credited vulnerability research: a transpiler-runtime audit of enspirit/elo and 
 >
 > LLM / AI エージェントを社会実装する立場から、AI 固有の脅威（プロンプトインジェクション、データ汚染など）を技術的に扱いつつ、実装だけでは消しきれないリスクに対して制度設計・ガバナンス・戦略まで含めた包括的な対策を演習形式で扱うハンズオン講義。
 
-#### Invited Talks / 招待講演
-
-**サイバー防衛研究会 · 8月例会** — Invited Speaker · 2026-08-21
-
-**フロンティアAIの「脆弱性発見農場」で見た景色――価値の重心はどこへ移るのか**
-
-Firefoxを対象に、AIエージェントでロジックバグを継続的に探索する「脆弱性発見農場」の実践を紹介。対象の機能と危険な状態を整理した「世界モデル」と、成功・失敗を記録する台帳を通じて探索を改善する手法、AI時代の脆弱性研究における対象理解と人間によるトリアージの役割について講演。
-
-📰 [「脆弱性発見農場」でロジックバグを探す〈サイバー防衛研究会8月例会報告〉](https://inods.co.jp/topics/cyber/10594/) — *INODS UNVEIL* · 齋藤 孝道 · 2026-09-28
+> **🎤 サイバー防衛研究会 · 8月例会 — フロンティアAIの「脆弱性発見農場」で見た景色――価値の重心はどこへ移るのか**（2026-08-21）
+>
+> Firefoxを対象に、AIエージェントでロジックバグを継続的に探索する「脆弱性発見農場」の実践を紹介。対象の機能と危険な状態を整理した「世界モデル」と、成功・失敗を記録する台帳を通じて探索を改善する手法、AI時代の脆弱性研究における対象理解と人間によるトリアージの役割について講演。
+>
+> 📰 [「脆弱性発見農場」でロジックバグを探す〈サイバー防衛研究会8月例会報告〉](https://inods.co.jp/topics/cyber/10594/) — *INODS UNVEIL* · 齋藤 孝道 · 2026-09-28
 
 ---
 
