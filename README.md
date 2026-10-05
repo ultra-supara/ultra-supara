@@ -3,11 +3,11 @@
 # [atsushi sada](https://blackhat.com/us-26/arsenal/schedule/presenters.html#atsushi-sada-52831)
 
 ### Security Engineer & Founder
-Static Analysis,
-Threat Analysis,
-Malware in Cloud & Browser,
-Software Supply-Chain Security,
-Offensive Security
+- Static Analysis,
+- Threat Analysis,
+- Malware in Cloud & Browser,
+- Software Supply-Chain Security,
+- Offensive Security
 
 > *Code wins arguments.* I build the tools that defend the software supply chain.
 
@@ -29,10 +29,17 @@ Offensive Security
 
 ### 🔭 About
 
-- 🐤 **Security Engineer** at a fintech startup — I ship security tooling and research offensive techniques end to end.
+- 🐤 **Security Engineer** at a fintech startup 2022-2026.
+    - endpoint detection
+    - threat analysis
+    - AI governance
 - 🏛️ **IPA（独立行政法人情報処理推進機構）専門委員** — 2026–present.
-- ⭐️ **Focus** — Enterprise Security (AWS, GitHub ecosystem, MDM, EDR) · Security Dev Tooling (Static Analysis, Malware, CloudSec)・Offensive Security（FireFox）
-- 🎤 Speaker at **Black Hat USA 2026**, **DEF CON 34**, **Black Hat Asia 2025**, and **JSAC 2025**.
+- ⭐️ **Focus**
+    - Enterprise Security (AWS, GitHub ecosystem, modile devices, EDR)
+    - Security Dev Tooling (Static Analysis, Malware, CloudSec)
+    - Offensive Security（FireFox・Chrome）
+- 🎤 **Ssecurity Researcher**
+    - Speaker at **Black Hat USA 2026**, **DEF CON 34**, **Black Hat Asia 2025**, and **JSAC 2025**.
 - 🎓 B.S. in Computer Science & Engineering, [Ritsumeikan University](https://www.ritsumei.ac.jp/) ('24).
 
 ---
