@@ -28,6 +28,7 @@
 ### 🔭 About
 
 - 🐤 **Security Engineer** at a fintech startup — I ship security tooling and research offensive techniques end to end.
+- 🏛️ **IPA（独立行政法人情報処理推進機構）専門委員** — 2026–present.
 - ⭐️ **Focus** — Enterprise Security (AWS, GitHub ecosystem, MDM, EDR) · Security Dev Tooling (Static Analysis, Malware, CloudSec)・Offensive Security（FireFox）
 - 🎤 Speaker at **Black Hat USA 2026**, **DEF CON 34**, **Black Hat Asia 2025**, and **JSAC 2025**.
 - 🎓 B.S. in Computer Science & Engineering, [Ritsumeikan University](https://www.ritsumei.ac.jp/) ('24).
@@ -47,7 +48,9 @@
 
 CI-friendly static linter with autofix, SAST, and semantic analysis for **GitHub Actions**. It outperforms GitHub's official tool (CodeQL) in both speed and coverage for Actions-specific vulnerabilities.
 
-🎤 [DEF CON 34](https://www.blackhat.com/asia-25/arsenal/schedule/#sisakulint---ci-friendly-static-linter-with-sast-semantic-analysis-for-github-actions-43229) ('26) · [Black Hat Asia](https://www.blackhat.com/asia-25/arsenal/schedule/#sisakulint---ci-friendly-static-linter-with-sast-semantic-analysis-for-github-actions-43229) ('25) · 📖 [Docs](https://sisaku-security.github.io/lint/) · ▶️ [Demo video](https://www.youtube.com/watch?v=DhgqKOmzLSk)
+🎤 [DEF CON 34](https://defcon.org/html/defcon-34/dc-34-demolabs.html#content_66530) ('26) · 📑 [DEF CON 34 Slides](https://speakerdeck.com/4su_para/defcon34-demolabs-sisakulint-ci-friendly-static-linter-with-autofix-sast-semantic-analysis-for-github-actions) · [Black Hat Asia](https://www.blackhat.com/asia-25/arsenal/schedule/#sisakulint---ci-friendly-static-linter-with-sast-semantic-analysis-for-github-actions-43229) ('25) · 📖 [Docs](https://sisaku-security.github.io/lint/) · ▶️ [Demo video](https://www.youtube.com/watch?v=DhgqKOmzLSk)
+
+💬 [LinkedIn](https://lnkd.in/p/gqtcXeji)
 
 | Benchmark | Result |
 |---|---|
@@ -78,7 +81,9 @@ CI-friendly static linter with autofix, SAST, and semantic analysis for **GitHub
 
 Forensic Tool & reproducing the credential-harvesting pipeline shared by macOS infostealer families (AMOS, Poseidon, Banshee, Cthulhu, Cuckoo). Apple Silicon only. **No exfiltration by design.**
 
-🎤 [Black Hat USA](https://blackhat.com/us-26/arsenal/schedule/?track[]=malware#machstealerone-pipeline-behind-every-macos-infostealer-52134) ('26) · ▶️ [Research walkthrough (EN)](https://www.youtube.com/watch?v=mzyQ9-8qsFg) · ▶️ [ずんだもん解説 (JP)](https://www.youtube.com/watch?v=9KyRqy37Iao)
+🎤 [Black Hat USA](https://blackhat.com/us-26/arsenal/schedule/?track[]=malware#machstealerone-pipeline-behind-every-macos-infostealer-52134) ('26) · 📑 [Black Hat USA Slides](https://speakerdeck.com/4su_para/blackhat-usa-arsenal-machstealer-one-pipeline-behind-every-macos-infostealer) · ▶️ [Black Hat USA Talk](https://www.youtube.com/watch?v=epXhNheBVHM) · ▶️ [Research walkthrough (EN)](https://www.youtube.com/watch?v=mzyQ9-8qsFg) · ▶️ [ずんだもん解説 (JP)](https://www.youtube.com/watch?v=9KyRqy37Iao)
+
+💬 [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7495039051851300864/)
 
 #### [SIGIL](https://github.com/ultra-supara/SIGIL) &nbsp;<sub>'26 – present</sub>
 
@@ -90,17 +95,19 @@ Local-first **AI-BOM** generator for auditing local LLMs — a single static **R
 
 ### 🎯 Offensive Security — CVEs
 
-Credited vulnerability research: a transpiler-runtime audit of enspirit/elo and reported memory-safety / mitigation-bypass issues in **Mozilla Firefox**.
+Credited vulnerability research: a transpiler-runtime audit of enspirit/elo and reported memory-safety, mitigation-bypass, and privileged-navigation issues in **Mozilla Firefox and Firefox Focus for Android**.
 
 | CVE | Severity | Target | Vulnerability | Advisory |
 |:---|:---:|:---|:---|:---:|
 | **CVE-2026-44266** | ![Critical](https://img.shields.io/badge/Critical-9.8-E5484D?style=flat-square) | Elo · Ruby backend | RCE via unescaped `#{...}` interpolation in emitted string literals & subtype-constraint labels | [🔗](https://github.com/enspirit/elo/security/advisories/GHSA-7w38-ggh5-v542) |
 | **CVE-2026-44267** | ![Critical](https://img.shields.io/badge/Critical-9.8-E5484D?style=flat-square) | Elo · JS emitter | Sandbox escape to arbitrary Node.js / browser code execution via unfiltered `.constructor` member access | [🔗](https://github.com/enspirit/elo/security/advisories/GHSA-33r5-xmm8-v6x5) |
 | **CVE-2026-44265** | ![High](https://img.shields.io/badge/High-7.4-F76808?style=flat-square) | Elo · all backends | Code injection via unvalidated emission of programmatic AST fields (literal, identifier, member-access, object key, datapath, lambda param) | [🔗](https://github.com/enspirit/elo/security/advisories/GHSA-x9rp-7wh3-2rj5) |
+| **CVE-2026-92041** | ![Moderate](https://img.shields.io/badge/Moderate-FFB224?style=flat-square) | Firefox 156 | Opaque Response Blocking (ORB) bypass via an unvalidated `isInDevToolsContext` IPC flag supplied by a compromised content process | [🔗](https://www.mozilla.org/en-US/security/advisories/mfsa2026-90/#CVE-2026-92041) |
 | **CVE-2026-12307** | ![Moderate](https://img.shields.io/badge/Moderate-FFB224?style=flat-square) | Firefox 152 | Memory-safety vulnerability (credited reporter) | [🔗](https://www.mozilla.org/en-US/security/advisories/mfsa2026-57/#CVE-2026-12307) |
+| **CVE-2026-84135** | ![Low](https://img.shields.io/badge/Low-9BA1A6?style=flat-square) | Firefox Focus · Android | Missing `LoadUrlFlags.external()` lets a zero-permission app force privileged page navigation and URL-query-driven pref writes without user interaction | [🔗](https://www.mozilla.org/en-US/security/advisories/mfsa2026-82/#CVE-2026-84135) |
 | **CVE-2026-8969** | ![Low](https://img.shields.io/badge/Low-9BA1A6?style=flat-square) | Firefox 151 | Mitigation bypass in the DOM security component | [🔗](https://www.mozilla.org/en-US/security/advisories/mfsa2026-46/#CVE-2026-8969) |
 
-<sub>Firefox entries credit **Atsushi Sada** as reporter ([Bug 2038133](https://bugzilla.mozilla.org/show_bug.cgi?id=2038133), [Bug 2031123](https://bugzilla.mozilla.org/show_bug.cgi?id=2031123)).</sub>
+<sub>Firefox and Firefox Focus entries credit **Atsushi Sada** as reporter ([Bug 2029482](https://bugzilla.mozilla.org/show_bug.cgi?id=2029482), [Bug 2038133](https://bugzilla.mozilla.org/show_bug.cgi?id=2038133), [Bug 2046661](https://bugzilla.mozilla.org/show_bug.cgi?id=2046661), [Bug 2031123](https://bugzilla.mozilla.org/show_bug.cgi?id=2031123)).</sub>
 
 ---
 
@@ -108,8 +115,8 @@ Credited vulnerability research: a transpiler-runtime audit of enspirit/elo and 
 
 | Year | Event | Topic / Role | |
 |:---:|---|---|:---:|
-| 2026 | Black Hat USA Arsenal · Malware Track | MachStealer | [🔗](https://blackhat.com/us-26/arsenal/schedule/?track[]=malware#machstealerone-pipeline-behind-every-macos-infostealer-52134) |
-| 2026 | DEF CON 34 Demo Labs | sisakulint | [🔗](https://www.blackhat.com/asia-25/arsenal/schedule/#sisakulint---ci-friendly-static-linter-with-sast-semantic-analysis-for-github-actions-43229) |
+| 2026 | Black Hat USA Arsenal · Malware Track | MachStealer | [🔗](https://blackhat.com/us-26/arsenal/schedule/?track[]=malware#machstealerone-pipeline-behind-every-macos-infostealer-52134) · [Slides](https://speakerdeck.com/4su_para/blackhat-usa-arsenal-machstealer-one-pipeline-behind-every-macos-infostealer) · [Video](https://www.youtube.com/watch?v=epXhNheBVHM) |
+| 2026 | DEF CON 34 Demo Labs | sisakulint | [🔗](https://defcon.org/html/defcon-34/dc-34-demolabs.html#content_66530) · [Slides](https://speakerdeck.com/4su_para/defcon34-demolabs-sisakulint-ci-friendly-static-linter-with-autofix-sast-semantic-analysis-for-github-actions) |
 | 2026 | セキュリティ・キャンプ全国大会 · Class D2 | AIシステムにおける脅威対策とガバナンス実践 — Instructor | [🔗](https://www.ipa.go.jp/jinzai/security-camp/zenkoku_program.html#classd) |
 | 2025 | Black Hat Asia Arsenal · Code Assessment　Track | sisakulint　| [🔗](https://speakerdeck.com/4su_para/sisakulint-ci-friendly-static-linter-with-sast-semantic-analysis-for-github-actions) |
 | 2025 | JSAC 2025 | MITRE ATT&CK tooling via multi-LLM agents + RAG — LT | [🔗](https://speakerdeck.com/4su_para/jsac-2025-lt-introduction-to-mitre-att-and-ck-utilization-tools-by-multiple-llm-agents-and-rag) |
@@ -121,6 +128,16 @@ Credited vulnerability research: a transpiler-runtime audit of enspirit/elo and 
 > **🎓 セキュリティ・キャンプ2026 全国大会 · クラスD「AIセキュリティクラス」— [Class D2「AIシステムにおける脅威対策とガバナンス実践」](https://www.ipa.go.jp/jinzai/security-camp/zenkoku_program.html#classd)** （2026-08-11 · @HikaruEgashira との共同講師）
 >
 > LLM / AI エージェントを社会実装する立場から、AI 固有の脅威（プロンプトインジェクション、データ汚染など）を技術的に扱いつつ、実装だけでは消しきれないリスクに対して制度設計・ガバナンス・戦略まで含めた包括的な対策を演習形式で扱うハンズオン講義。
+
+#### Invited Talks / 招待講演
+
+**サイバー防衛研究会 · 8月例会** — Invited Speaker · 2026-08-21
+
+**フロンティアAIの「脆弱性発見農場」で見た景色――価値の重心はどこへ移るのか**
+
+Firefoxを対象に、AIエージェントでロジックバグを継続的に探索する「脆弱性発見農場」の実践を紹介。対象の機能と危険な状態を整理した「世界モデル」と、成功・失敗を記録する台帳を通じて探索を改善する手法、AI時代の脆弱性研究における対象理解と人間によるトリアージの役割について講演。
+
+📰 [「脆弱性発見農場」でロジックバグを探す〈サイバー防衛研究会8月例会報告〉](https://inods.co.jp/topics/cyber/10594/) — *INODS UNVEIL* · 齋藤 孝道 · 2026-09-28
 
 ---
 
