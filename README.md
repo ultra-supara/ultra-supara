@@ -166,12 +166,17 @@ Credited vulnerability research: a transpiler-runtime audit of enspirit/elo and 
 
 ### ✍️ Tech Blog
 
-- [VSCodeで生産性を上げる](https://zenn.dev/ultrasupara/articles/174429511504c7) — **15,000+ Views**
-- [grub rescue モードから抜ける](https://zenn.dev/ultrasupara/articles/dcd4b7a6d95729) — **10,000+ Views**
+- [有線が届かないデスクトップPCをWi-Fi化した話](https://zenn.dev/ultrasupara/articles/7daaaf4f7aceed)
+- [2026 Q2 : 大規模なFirefoxの脆弱性調査](https://zenn.dev/ultrasupara/articles/39685a14e4b674)
+- [actions/checkout の persist-credentials 問題を sisakulint で検出できる理由](https://zenn.dev/ultrasupara/articles/65c2c606205c31)
 - [macOS向けInfoStealerを技術的に解説してみた](https://zenn.dev/finatext/articles/1c1a2c78531057) — *Finatext Tech Blog*
 - [問題解決のためAWSドキュメントをどう追従するか](https://zenn.dev/ultrasupara/articles/6613ff64760fe4)
-- [GoreleaserとGitHub ActionsでプライベートリポジトリのCLIツールをbrewに公開する](https://zenn.dev/ultrasupara/articles/0efd250afc7b17)
+- [2024年を雑に振り返る](https://zenn.dev/ultrasupara/articles/f23ba617a2d89a)
+- [VSCodeで生産性を上げる](https://zenn.dev/ultrasupara/articles/174429511504c7) — **15,000+ Views**
 - [Kali LinuxでNvidia-driverを用いてデュアルモニターをセットアップする](https://zenn.dev/ultrasupara/articles/3235fc0ed0e509)
+- [GoreleaserとGitHub ActionsでプライベートリポジトリのCLIツールをbrewに公開する](https://zenn.dev/ultrasupara/articles/0efd250afc7b17)
+- [grub rescue モードから抜ける](https://zenn.dev/ultrasupara/articles/dcd4b7a6d95729) — **10,000+ Views**
+- [セキュリティ・キャンプ全国大会2023 , [専門B]Webセキュリティークラス, チューター参加記](https://zenn.dev/ultrasupara/articles/4b293f3a53e9db)
 
 ---
 
