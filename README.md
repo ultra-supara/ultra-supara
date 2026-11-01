@@ -94,6 +94,11 @@ Local-first **AI-BOM** generator for auditing local LLMs — a single static **R
 
 📖 [Live site](https://ultra-supara.github.io/SIGIL/) · 🔎 [AI-BOM viewer](https://ultra-supara.github.io/SIGIL/viewer/) · 📊 [State of Local AI Audit — 2026 H1](https://ultra-supara.github.io/SIGIL/reports/2026-h1/)
 
+📝 **Development notes (JP)**
+
+- [Rustのセッション検証がO(N²)だったので、エラーの順序を変えずに25倍高速化した話](https://zenn.dev/ultrasupara/articles/6fbbc88e8a7ed9)
+- [wasm-opt -Ozでgzip後のサイズが増えたWasmを、141通りの実験で48%削減した話](https://zenn.dev/ultrasupara/articles/cef4a06a71cdda)
+
 ---
 
 ### 🎯 Offensive Security — CVEs
@@ -204,6 +209,8 @@ OWSは学術と産業界の距離が非常に近く、学会への認識を改�
 
 ### ✍️ Tech Blog
 
+- [Rustのセッション検証がO(N²)だったので、エラーの順序を変えずに25倍高速化した話](https://zenn.dev/ultrasupara/articles/6fbbc88e8a7ed9)
+- [wasm-opt -Ozでgzip後のサイズが増えたWasmを、141通りの実験で48%削減した話](https://zenn.dev/ultrasupara/articles/cef4a06a71cdda)
 - [有線が届かないデスクトップPCをWi-Fi化した話](https://zenn.dev/ultrasupara/articles/7daaaf4f7aceed)
 - [2026 Q2 : 大規模なFirefoxの脆弱性調査](https://zenn.dev/ultrasupara/articles/39685a14e4b674)
 - [actions/checkout の persist-credentials 問題を sisakulint で検出できる理由](https://zenn.dev/ultrasupara/articles/65c2c606205c31)
