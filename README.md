@@ -94,7 +94,7 @@ Local-first **AI-BOM** generator for auditing local LLMs — a single static **R
 
 📖 [Live site](https://ultra-supara.github.io/SIGIL/) · 🔎 [AI-BOM viewer](https://ultra-supara.github.io/SIGIL/viewer/) · 📊 [State of Local AI Audit — 2026 H1](https://ultra-supara.github.io/SIGIL/reports/2026-h1/)
 
-📝 **Development notes (JP)**
+📝 **Development notes**
 
 - [Rustのセッション検証がO(N²)だったので、エラーの順序を変えずに25倍高速化した話](https://zenn.dev/ultrasupara/articles/6fbbc88e8a7ed9)
 - [wasm-opt -Ozでgzip後のサイズが増えたWasmを、141通りの実験で48%削減した話](https://zenn.dev/ultrasupara/articles/cef4a06a71cdda)
@@ -156,17 +156,6 @@ Credited vulnerability research: a transpiler-runtime audit of enspirit/elo and 
 > | 03 | [AIを使った脆弱性研究で、何を設計するのか](https://www.youtube.com/watch?v=R_QVXHrwx7U) |
 > | 04 | [学びの場をつくり、経験を次へつなぐ](https://www.youtube.com/watch?v=R1mPprYNCrA) |
 
-<details>
-<summary>💬 講演へのコメント・OWSの感想</summary>
-
-神戸さんをはじめとするプログラム選考委員会の皆さんや、知り合いのIPA/AISIの研究員の方から「色々よく考えてやっているなー」といったコメントをいただきました。直前に講演されていた高江洲勲（Takaesu Isao）さんからは「良い技術者であるとの確信・信頼がより高まった」との言葉もいただきました。
-
-学生の方からもいくつかコメントをいただき、このタイミングで、どのようなことを考えながら様々な活動に取り組んでいるのかをじっくり話す機会をいただけて良かったと感じています。
-
-OWSは学術と産業界の距離が非常に近く、学会への認識を改める機会になりました。非常に優れた研究会だと感じており、OSSやセキュリティに関わる一人として、今後もお付き合いできればと思っています。
-
-</details>
-
 > **🎤 CSS2026 · OWS パネルディスカッション — AIはOSSの守護者か、それとも破壊者か？ ～フロンティアAI時代のOSSセキュリティ～**（2026-10-21）
 >
 > AIを用いたOSSの脆弱性発見手法や、今後の開発プロセスについて議論。現行のv1.0、v1.1、v1.2…の開発と並行して、開発手法も含めて丸ごとAI主導で作り直すv2.0プロジェクトを進め、技術的負債の解消を目指す案を提案。
@@ -183,7 +172,7 @@ OWSは学術と産業界の距離が非常に近く、学会への認識を改�
 >
 > Firefoxを対象に、AIエージェントでロジックバグを継続的に探索する「脆弱性発見農場」の実践を紹介。対象の機能と危険な状態を整理した「世界モデル」と、成功・失敗を記録する台帳を通じて探索を改善する手法、AI時代の脆弱性研究における対象理解と人間によるトリアージの役割について講演。
 >
-> 📰 [「脆弱性発見農場」でロジックバグを探す〈サイバー防衛研究会8月例会報告〉](https://inods.co.jp/topics/cyber/10594/) — *INODS UNVEIL* · 齋藤 孝道 · 2026-09-28
+> 📰 [「脆弱性発見農場」でロジックバグを探す〈サイバー防衛研究会8月例会報告〉](https://inods.co.jp/topics/cyber/10594/) — *INODS UNVEIL*
 
 ---
 
