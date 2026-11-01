@@ -175,7 +175,7 @@ OWSは学術と産業界の距離が非常に近く、学会への認識を改�
 >
 > 📖 [OWS2026 プログラム](https://www.iwsec.org/ows/2026/)
 
-> **🎓 セキュリティ・キャンプ2026 全国大会 · クラスD「AIセキュリティクラス」— [Class D2「AIシステムにおける脅威対策とガバナンス実践」](https://www.ipa.go.jp/jinzai/security-camp/zenkoku_program.html#classd)** （2026-08-11 · @HikaruEgashira との共同講師）
+> **🎓 セキュリティ・キャンプ2026 全国大会 · クラスD「AIセキュリティクラス」— [Class D2「AIシステムにおける脅威対策とガバナンス実践」](https://www.ipa.go.jp/jinzai/security-camp/zenkoku_program.html#classd)** （2026-08-11 · [@HikaruEgashira](https://github.com/HikaruEgashira) との共同講師）
 >
 > LLM / AI エージェントを社会実装する立場から、AI 固有の脅威（プロンプトインジェクション、データ汚染など）を技術的に扱いつつ、実装だけでは消しきれないリスクに対して制度設計・ガバナンス・戦略まで含めた包括的な対策を演習形式で扱うハンズオン講義。
 
