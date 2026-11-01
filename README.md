@@ -121,6 +121,8 @@ Credited vulnerability research: a transpiler-runtime audit of enspirit/elo and 
 
 | Year | Event | Topic / Role | |
 |:---:|---|---|:---:|
+| 2026 | CSS2026 · OWS · 3C1 | 世界観を、実装する — Invited Speaker | [Program](https://www.iwsec.org/css/2026/program.html?20260908#3C1) · [Slides](https://speakerdeck.com/atsush1_sada/css2026-ows-kenkyuukai-shoutai-kouen-sekaikan-o-jissou-suru) |
+| 2026 | CSS2026 · OWS · Panel Discussion | AIはOSSの守護者か、それとも破壊者か？ ～フロンティアAI時代のOSSセキュリティ～ — Panelist | [🔗](https://www.iwsec.org/ows/2026/) |
 | 2026 | Black Hat USA Arsenal · Malware Track | MachStealer | [🔗](https://blackhat.com/us-26/arsenal/schedule/?track[]=malware#machstealerone-pipeline-behind-every-macos-infostealer-52134) · [Slides](https://speakerdeck.com/4su_para/blackhat-usa-arsenal-machstealer-one-pipeline-behind-every-macos-infostealer) · [Video](https://www.youtube.com/watch?v=epXhNheBVHM) |
 | 2026 | DEF CON 34 Demo Labs | sisakulint | [🔗](https://defcon.org/html/defcon-34/dc-34-demolabs.html#content_66530) · [Slides](https://speakerdeck.com/4su_para/defcon34-demolabs-sisakulint-ci-friendly-static-linter-with-autofix-sast-semantic-analysis-for-github-actions) |
 | 2026 | セキュリティ・キャンプ全国大会 · Class D2 | AIシステムにおける脅威対策とガバナンス実践 — Instructor | [🔗](https://www.ipa.go.jp/jinzai/security-camp/zenkoku_program.html#classd) |
@@ -131,6 +133,42 @@ Credited vulnerability research: a transpiler-runtime audit of enspirit/elo and 
 | 2025 | Findy TECH BATON #6 | npm supply-chain attacks — Speaker | [🔗](https://speakerdeck.com/4su_para/npmpatukezinosapuraitienwen-ti) |
 | 2024 | Security-JAWS #35 | Malware & content-tampering defense in the cloud | [🔗](https://speakerdeck.com/4su_para/security-jaws-di-35hui-mian-qiang-hui-kuraudoniokerumaruueayakontentugai-zanhenodui-ce) |
 | 2024 | Closed Career Event @ RiST | Risk-based security operations | [🔗](https://speakerdeck.com/4su_para/toaruyuzaqi-ye-niokerurisukubesudekao-erusekiyuriteiye-wu-noohua-si) |
+
+> **🎤 CSS2026 · OWS研究会 招待講演 — 世界観を、実装する**（2026-10-21）
+>
+> [3C1「OSSとAIが切り拓くサイバーセキュリティの未来」](https://www.iwsec.org/css/2026/program.html?20260908#3C1)にて講演。学生時代からのOSS開発、AIを活用した脆弱性研究、コミュニティづくりを振り返り、自分の問いや世界観を技術と活動に実装し、経験を次の挑戦へつなぐ過程を紹介。
+>
+> スライドと講演動画をすべて公開しています。来られなかった方、見逃した方、もう一度見たい方にも届けばうれしいです。
+>
+> 📑 [スライド「世界観を、実装する」](https://speakerdeck.com/atsush1_sada/css2026-ows-kenkyuukai-shoutai-kouen-sekaikan-o-jissou-suru)
+>
+> **▶️ 講演動画（全4本）**
+>
+> | Part | テーマ |
+> |:---:|---|
+> | 01 | [AI時代、自分の問いをどう育てるか](https://www.youtube.com/watch?v=eyXGGKW_2ik) |
+> | 02 | [問いをセキュリティツールに変える](https://www.youtube.com/watch?v=c74TMUNb91U) |
+> | 03 | [AIを使った脆弱性研究で、何を設計するのか](https://www.youtube.com/watch?v=R_QVXHrwx7U) |
+> | 04 | [学びの場をつくり、経験を次へつなぐ](https://www.youtube.com/watch?v=R1mPprYNCrA) |
+
+<details>
+<summary>💬 講演へのコメント・OWSの感想</summary>
+
+神戸さんをはじめとするプログラム選考委員会の皆さんや、知り合いのIPA/AISIの研究員の方から「色々よく考えてやっているなー」といったコメントをいただきました。直前に講演されていた高江洲勲（Takaesu Isao）さんからは「良い技術者であるとの確信・信頼がより高まった」との言葉もいただきました。
+
+学生の方からもいくつかコメントをいただき、このタイミングで、どのようなことを考えながら様々な活動に取り組んでいるのかをじっくり話す機会をいただけて良かったと感じています。
+
+OWSは学術と産業界の距離が非常に近く、学会への認識を改める機会になりました。非常に優れた研究会だと感じており、OSSやセキュリティに関わる一人として、今後もお付き合いできればと思っています。
+
+</details>
+
+> **🎤 CSS2026 · OWS パネルディスカッション — AIはOSSの守護者か、それとも破壊者か？ ～フロンティアAI時代のOSSセキュリティ～**（2026-10-21）
+>
+> AIを用いたOSSの脆弱性発見手法や、今後の開発プロセスについて議論。現行のv1.0、v1.1、v1.2…の開発と並行して、開発手法も含めて丸ごとAI主導で作り直すv2.0プロジェクトを進め、技術的負債の解消を目指す案を提案。
+>
+> 誰が保守できるのか分からなくなったレガシーコンポーネントから順に、再実装と旧システムの廃止を試みることが、将来の開発・保守を助けると考えています。こうした取り組みが、AI前提のDevOpsへのパラダイムシフトにつながることを期待しています。
+>
+> 📖 [OWS2026 プログラム](https://www.iwsec.org/ows/2026/)
 
 > **🎓 セキュリティ・キャンプ2026 全国大会 · クラスD「AIセキュリティクラス」— [Class D2「AIシステムにおける脅威対策とガバナンス実践」](https://www.ipa.go.jp/jinzai/security-camp/zenkoku_program.html#classd)** （2026-08-11 · @HikaruEgashira との共同講師）
 >
